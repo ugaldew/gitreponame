@@ -43,6 +43,7 @@
     {
       "class": "shapeGroup",
       "id": "5737032B-B8C3-45D1-A295-1E0684AB7BBE"
+<<<<<<< HEAD
     },
     {
       "class": "shapeGroup",
@@ -51,6 +52,8 @@
     {
       "class": "shapeGroup",
       "id": "5809FBF7-C3AA-4495-B5E1-92173612E0F7"
+=======
+>>>>>>> parent of 6aa8887... Cuadro amarillo
     }
   ],
   "name": "@Start Here",
