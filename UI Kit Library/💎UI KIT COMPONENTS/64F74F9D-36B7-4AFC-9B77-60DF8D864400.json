@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "64F74F9D-36B7-4AFC-9B77-60DF8D864400",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54.99999999999997,
+    "width": 176,
+    "x": -1931,
+    "y": -219
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Commons / Cancel | Save / Symbol 176x55",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1632BB4-2FA2-4E65-9576-E858D44CF351_symbolID",
+      "value": "ACD1A20F-4573-443D-BBD1-A00AADE233E6"
+    }
+  ],
+  "overrides": {
+    "A1632BB4-2FA2-4E65-9576-E858D44CF351": {
+      "symbolID": "ACD1A20F-4573-443D-BBD1-A00AADE233E6"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C755F894-0753-436A-B6DA-18998018F2D2",
+  "userInfo": {
+    "com.zeroheight.plugin": {
+      "zeroheight-component-id": 45343
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "896E28D0-6D23-42E9-A847-DFF75D59F210",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "842EDC26-96A1-49FE-BFA8-C7E247233DC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57BA3DC6-CF12-416B-A0A3-8DA8014B9C3B",
+    "height": 53,
+    "width": 361,
+    "x": 676,
+    "y": 8124
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Anotations / Label / Label_# Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A4F4E8C-5758-445C-A874-D79A3F11F7CC",
+      "overrideName": "89465061-AB54-4E7D-BFB5-F49BEF770394_stringValue",
+      "value": "Forms components"
+    }
+  ],
+  "overrides": {
+    "89465061-AB54-4E7D-BFB5-F49BEF770394": "Forms components"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.25,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F604A215-F70F-49B8-BFF5-847FB470B441",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.5,
+      "type": 0
+    },
+    "do_objectID": "B8F71761-1BA2-41B3-AF9F-EE1065D7BB65",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6C3EA7BD-5DA5-451B-B428-9E753FB4BEBC",
+  "verticalSpacing": 0
+}

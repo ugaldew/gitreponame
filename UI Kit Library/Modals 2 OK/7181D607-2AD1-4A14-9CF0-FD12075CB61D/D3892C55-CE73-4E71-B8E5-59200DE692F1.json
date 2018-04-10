@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D3892C55-CE73-4E71-B8E5-59200DE692F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 571,
+    "width": 720,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modals / Modal_Master_#",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "92CF15BF-1108-4092-8D72-6976F5C33A7A/DB25E687-DAE9-4D1B-8CD7-5774EC74592F/EA137551-8363-421E-8DC6-E4B691236AFA_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "92CF15BF-1108-4092-8D72-6976F5C33A7A/78889FC9-DC8F-4EB3-92C5-1811F86A2E52/3EF9D296-E2EE-4966-A06B-8DA72FA51F6A_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "92CF15BF-1108-4092-8D72-6976F5C33A7A/78889FC9-DC8F-4EB3-92C5-1811F86A2E52/FEF878D1-8D60-4EE4-AF24-55C19355B4BD_stringValue",
+      "value": "Send"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "92CF15BF-1108-4092-8D72-6976F5C33A7A/78889FC9-DC8F-4EB3-92C5-1811F86A2E52/682E6922-03A1-4AE1-8E12-7C0F6E5194A6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D6EDAD2-AE68-4ADD-85DC-F3EC9EC29CC2/35F8D671-23F2-4CE9-BD02-4600805491C5_stringValue",
+      "value": "New account Invoice"
+    }
+  ],
+  "overrides": {
+    "92CF15BF-1108-4092-8D72-6976F5C33A7A": {
+      "78889FC9-DC8F-4EB3-92C5-1811F86A2E52": {
+        "3EF9D296-E2EE-4966-A06B-8DA72FA51F6A": " ",
+        "682E6922-03A1-4AE1-8E12-7C0F6E5194A6": {
+          "symbolID": ""
+        },
+        "FEF878D1-8D60-4EE4-AF24-55C19355B4BD": "Send"
+      },
+      "DB25E687-DAE9-4D1B-8CD7-5774EC74592F": {
+        "EA137551-8363-421E-8DC6-E4B691236AFA": " "
+      }
+    },
+    "9D6EDAD2-AE68-4ADD-85DC-F3EC9EC29CC2": {
+      "35F8D671-23F2-4CE9-BD02-4600805491C5": "New account Invoice"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7050CD6A-CB09-41B2-B950-65C1A50E3279",
+  "verticalSpacing": 0
+}

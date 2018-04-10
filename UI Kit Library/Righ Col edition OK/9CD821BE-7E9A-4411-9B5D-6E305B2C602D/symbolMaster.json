@@ -1,0 +1,128 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 1
+  },
+  "changeIdentifier": 1278,
+  "do_objectID": "9CD821BE-7E9A-4411-9B5D-6E305B2C602D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 310,
+    "x": -2646,
+    "y": 2107
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 11,
+    "isEnabled": false,
+    "thickGridTimes": 1
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      72,
+      79.33333333333303,
+      151.333333333333,
+      158.6666666666661,
+      230.6666666666661,
+      237.9999999999991,
+      309.9999999999991
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2B770B93-854F-4FF4-A0D7-D6F9EE8A5AC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94862BEB-25A7-47D3-AC86-1B5298A9925E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8571C998-DE87-4034-B4E6-FAE8650E2E9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "773B18C2-01C8-4845-BF27-D04368DAF49F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F70F306-2BB9-408B-A0DA-398FE1514D28"
+    }
+  ],
+  "name": "Righ Col edition / Editors / Design / Design_icons_#",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9ED27FE0-A7CA-4929-A060-7B56F59C8F31",
+  "userInfo": {
+    "avocode": {
+      "managerLink": {
+        "artboardID": "9CD821BE-7E9A-4411-9B5D-6E305B2C602D",
+        "managerID": 5969989
+      },
+      "syncTimestamp": 1489483902932
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

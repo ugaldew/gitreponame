@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "869ED85F-F10F-4557-8FFA-BCE0E8CD204A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D71E7094-596B-4A52-87ED-F1EF6587371E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3879940A-71B3-4802-9F6F-F21C1CB4C932",
+    "height": 53,
+    "width": 3228,
+    "x": 98,
+    "y": 15812
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Anotations / Label / Label_# Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34725C9B-1BAB-42A8-AC86-16DA766EB902",
+      "overrideName": "89465061-AB54-4E7D-BFB5-F49BEF770394_stringValue",
+      "value": "Layout Backgrounds"
+    }
+  ],
+  "overrides": {
+    "89465061-AB54-4E7D-BFB5-F49BEF770394": "Layout Backgrounds"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.25,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CA21499C-3722-4D16-8AD2-586005F7B290",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.5,
+      "type": 0
+    },
+    "do_objectID": "A29648B2-A647-449D-8866-13D6E3921143",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6C3EA7BD-5DA5-451B-B428-9E753FB4BEBC",
+  "verticalSpacing": 0
+}

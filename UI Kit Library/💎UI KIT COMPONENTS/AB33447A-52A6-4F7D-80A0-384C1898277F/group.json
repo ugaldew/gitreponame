@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "AB33447A-52A6-4F7D-80A0-384C1898277F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1380,
+    "x": 2550,
+    "y": 382
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E304A0C7-A36D-4CE8-AD22-54B4910876EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6728F58-304F-4069-8DE0-98F3169A323A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "365C3D3A-AE70-4844-93CA-78221702CE0C"
+    }
+  ],
+  "name": "Dashboard Modal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

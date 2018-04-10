@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlaW11obFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA15TdG9yZSBDb250YWN0c9MREgoTGyNXTlMua2V5c1pOUy5vYmplY3RzpxQVFhcYGRqABIAFgAaAB4AIgAmACqccHR0dICEdgAuAE4ATgBOAFIAegBOAHV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SCiwtLl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgowMzaiMTKADYAOojQ1gA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQC4AAAAAAABdSGVsdmV0aWNhTmV1ZdI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROT1BRgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/sRERERERESM/4zMzMzMzMyM/sRERERERESM/sREREREREdI8PUBcokBB1l5fYAphYmNkZWZnZV8QEk5TUGFyYWdyYXBoU3BhY2luZ1pOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodCN/+AAAAAAAAIAAI0A2AAAAAAAAgB8QAdI8PWlqXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjaWtBXxAQTlNQYXJhZ3JhcGhTdHlsZdI8PW1uXxASTlNBdHRyaWJ1dGVkU3RyaW5nom9BXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XJzVHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBoAHEAeACFAIcAiQCLAJoAoQCpALQAvAC+AMAAwgDEAMYAyADKANIA1ADWANgA2gDcAN4A4ADiAQQBFgEiAU0BegGNAZQBmQG2AbgBugHBAcQBxgHIAcsBzQHPAdEB5wH9AgYCFAIZAiQCLQJDAkcCVAJdAmICdQJ4AosCjQKUApkCmwKdAp8CoQKmAqgCqgKsAq4CsAK0AroCvwLFAs4C1wLgAukC7gLxAv4DEwMeAzADUgNkA20DbwN4A3oDfAOBA5sDnwOyA7cDzAPPA+QD9gP5A/4AAAAAAAACAQAAAAAAAAB0AAAAAAAAAAAAAAAAAAAEAA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C94BD8A6-0690-4BC7-B72A-CE6D6FD11A52",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 128,
+    "x": 152,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 6}, {101, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Store Contacts Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2C684203-FF42-454E-AE0C-24A5E455D904"
+  },
+  "textBehaviour": 1
+}

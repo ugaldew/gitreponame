@@ -1,0 +1,75 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAiIyQlJicoNDU2Nzg5Ojs8QkZOT1BRUlVZWmZqVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADVlNlYXJjaNMREgoTGiFXTlMua2V5c1pOUy5vYmplY3RzphQVFhcYGYAEgAWABoAHgAiACaYbHB0dHSCACoAUgByAHIAcgB2AE18QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgopLiGkKissLYALgAyADYAOpC8wMTKAD4AQgBGAEoATU3JlZFVhbHBoYVRibHVlVWdyZWVuIz+xERERERERIz/TMzMzMzMzIz+xERERERERIz+xERERERER0j0+P0BaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiP0FYTlNPYmplY3TSCkNERV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBuAFdMREgpHSk2iSEmAFoAXoktMgBiAGYAaXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDIAAAAAAABfEBNIZWx2ZXRpY2FOZXVlLUxpZ2h00j0+U1RfEBNOU011dGFibGVEaWN0aW9uYXJ5o1M/QdI9PlZXXxAQTlNGb250RGVzY3JpcHRvcqJYQV8QEE5TRm9udERlc2NyaXB0b3IQANcKW1xdXl9gYWJjZGVkY1pOU1RhYlN0b3BzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QEk5TUGFyYWdyYXBoU3BhY2luZ18QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAegAAQASNANgAAAAAAACN/+AAAAAAAANI9PmdoXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZ2lBXxAQTlNQYXJhZ3JhcGhTdHlsZdI9PmtsXxASTlNBdHRyaWJ1dGVkU3RyaW5nom1BXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XBxVHJvb3SAAQAIABEAGgAjAC0AMgA3AFoAYABnAHAAdwCEAIYAiACKAJEAmACgAKsAsgC0ALYAuAC6ALwAvgDFAMcAyQDLAM0AzwDRANMBAAEiATQBQAFrAX4BhQGKAYwBjgGQAZIBlwGZAZsBnQGfAaEBpQGrAbABtgG/AcgB0QHaAd8B6gHzAgACAwIMAhECLgIwAjICOQI8Aj4CQAJDAkUCRwJJAl8CdQJ+ApQCmQKvArMCuALLAs4C4QLjAvIC/QMfAzEDRgNYA2QDZgNoA2oDcwN8A4EDmwOfA7IDtwPMA88D5AP2A/kD/gAAAAAAAAIBAAAAAAAAAHIAAAAAAAAAAAAAAAAAAAQA"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2685C203-7382-4A71-BC74-BAFAF409210A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FD0C910-5A4B-4F81-8337-066BD100591B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C46B2A21-3119-437C-9835-4A7531F66880",
+    "height": 22,
+    "width": 80,
+    "x": 72,
+    "y": 17
+  },
+  "glyphBounds": "{{26, 4}, {53, 15}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "✏️ Search",
+  "nameIsFixed": true,
+  "resizingConstraint": 20,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "161402BB-0F96-4392-8815-FA290F207407",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "BC890BBD-092F-4582-8534-E763E27DCC8C",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "669FF082-C77E-4E1F-B0E5-7290CF323ACE",
+      "encodedAttributes": {
+        "MSAttributedStringColorDictionaryAttribute": {
+          "alpha": 0.3,
+          "blue": 0.06666666666666667,
+          "green": 0.06666666666666667,
+          "red": 0.06666666666666667
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF8QE0hlbHZldGljYU5ldWUtTGlnaHTSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA6QDuAPkBAgEYARwBKQEyATcBSgFNAWABcgF1AXoAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABfA=="
+        },
+        "MSAttributedStringTextTransformAttribute": 0,
+        "paragraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGHB1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBVVJG51bGzXCQoLDA0ODxAREhMUExJWJGNsYXNzWk5TVGFiU3RvcHNfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gAKAABABI0A2AAAAAAAAI3/4AAAAAAAA0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxgaG18QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRHh9Ucm9vdIABAAgAEQAaACMALQAyADcAOwBBAFAAVwBiAIQAlgCrAL0AyQDLAM0AzwDYAOEA5gDxAPoBFAEYASsBNAFGAUkBTgAAAAAAAAIBAAAAAAAAACAAAAAAAAAAAAAAAAAAAAFQ"
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

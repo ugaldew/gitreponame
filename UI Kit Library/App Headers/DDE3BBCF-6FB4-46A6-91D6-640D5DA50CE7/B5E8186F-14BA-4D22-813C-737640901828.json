@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B5E8186F-14BA-4D22-813C-737640901828",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 312,
+    "x": 84,
+    "y": 11
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / TABS / 3 Buttons 312x33 / Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BBA4055A-8660-4C35-8812-4113B5FAAC2F_symbolID",
+      "value": "6CCB986F-5AEC-4052-8CAD-D448A55E8421"
+    }
+  ],
+  "overrides": {
+    "BBA4055A-8660-4C35-8812-4113B5FAAC2F": {
+      "symbolID": "6CCB986F-5AEC-4052-8CAD-D448A55E8421"
+    }
+  },
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "25E77EEF-3AC5-4F9C-B28F-62BD399C0092",
+  "verticalSpacing": 0
+}

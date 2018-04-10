@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "7E8AAC93-3148-47A1-AA85-FCFF0D8AB8CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 162,
+    "width": 73,
+    "x": -1535,
+    "y": 427
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "49300EFA-FE13-415E-AA81-CC0656DA55E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58726BD0-E16A-4DDC-B711-E9D6415ADF0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76636039-DED8-4DEF-8830-7EED4A218E56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75966BC5-BA3F-4485-8C57-C880B9D3610B"
+    }
+  ],
+  "name": "Flat Buttons S",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

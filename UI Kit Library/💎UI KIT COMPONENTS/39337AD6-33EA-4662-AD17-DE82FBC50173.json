@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "39337AD6-33EA-4662-AD17-DE82FBC50173",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21.99999999999999,
+    "width": 34.00000000000006,
+    "x": -919,
+    "y": 1715
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BTN Switches Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "41A37C7F-371B-4D9F-AEFE-FC4EE9768E71_symbolID",
+      "value": "68298D6E-4545-49D1-862C-32FE721A2A24"
+    }
+  ],
+  "overrides": {
+    "41A37C7F-371B-4D9F-AEFE-FC4EE9768E71": {
+      "symbolID": "68298D6E-4545-49D1-862C-32FE721A2A24"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "68298D6E-4545-49D1-862C-32FE721A2A24",
+  "verticalSpacing": 0
+}

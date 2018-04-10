@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B6728F58-304F-4069-8DE0-98F3169A323A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 669,
+    "width": 1300,
+    "x": 40,
+    "y": 50
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dashboard / Overlay / Modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE87B080-136E-4471-92B6-FF516C62C622/48CC4694-0207-4875-8482-6857753E1048_symbolID",
+      "value": "F39C9F74-E52C-4BE9-A956-6D99C9046129"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE87B080-136E-4471-92B6-FF516C62C622/8C7E8244-78E3-44B9-8999-F83C984166B0_symbolID",
+      "value": "809F92EE-CAB9-4065-8F8C-7580DA452A68"
+    }
+  ],
+  "overrides": {
+    "DE87B080-136E-4471-92B6-FF516C62C622": {
+      "48CC4694-0207-4875-8482-6857753E1048": {
+        "symbolID": "F39C9F74-E52C-4BE9-A956-6D99C9046129"
+      },
+      "8C7E8244-78E3-44B9-8999-F83C984166B0": {
+        "symbolID": "809F92EE-CAB9-4065-8F8C-7580DA452A68"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "37CD239B-0206-4B9A-A0D1-BDB0C879CD68",
+  "verticalSpacing": 0
+}

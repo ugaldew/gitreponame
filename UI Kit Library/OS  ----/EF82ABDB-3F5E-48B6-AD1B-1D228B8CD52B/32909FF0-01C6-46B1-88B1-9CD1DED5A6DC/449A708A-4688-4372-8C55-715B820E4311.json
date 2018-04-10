@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "449A708A-4688-4372-8C55-715B820E4311",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 891,
+    "x": 278,
+    "y": 60
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "item  copy 8",
+  "nameIsFixed": false,
+  "originalObjectID": "93EC664A-B23A-414F-9618-07DE1E0A9865",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8A913E81-86F6-49BA-ABB0-708D9C31E818_stringValue",
+      "value": "Account"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "64C5FF79-8E3C-4833-9DA3-E5505F599D02_stringValue",
+      "value": "DE22790500000044478998"
+    }
+  ],
+  "overrides": {
+    "64C5FF79-8E3C-4833-9DA3-E5505F599D02": "DE22790500000044478998",
+    "8A913E81-86F6-49BA-ABB0-708D9C31E818": "Account"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D25B536A-BA60-41EE-82CE-70915DB00ED7",
+  "verticalSpacing": 0
+}

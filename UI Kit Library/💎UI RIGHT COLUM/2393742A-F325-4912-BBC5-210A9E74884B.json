@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2393742A-F325-4912-BBC5-210A9E74884B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 310,
+    "x": 2,
+    "y": -551
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SIDE BARS / Right Col / Component / design_icons",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6F70F306-2BB9-408B-A0DA-398FE1514D28_symbolID",
+      "value": "73549234-C452-4E9C-8205-847709FCF3D2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "94862BEB-25A7-47D3-AC86-1B5298A9925E_symbolID",
+      "value": "725F7039-37BE-41CD-AF40-E825AEAFCE90"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "773B18C2-01C8-4845-BF27-D04368DAF49F_symbolID",
+      "value": "D91CC9EB-B3E6-47F5-AF20-AB89308CD9DD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8571C998-DE87-4034-B4E6-FAE8650E2E9F_symbolID",
+      "value": "BF511615-BBAC-4B33-BC37-CF26CC8E352B"
+    }
+  ],
+  "overrides": {
+    "6F70F306-2BB9-408B-A0DA-398FE1514D28": {
+      "symbolID": "73549234-C452-4E9C-8205-847709FCF3D2"
+    },
+    "773B18C2-01C8-4845-BF27-D04368DAF49F": {
+      "symbolID": "D91CC9EB-B3E6-47F5-AF20-AB89308CD9DD"
+    },
+    "8571C998-DE87-4034-B4E6-FAE8650E2E9F": {
+      "symbolID": "BF511615-BBAC-4B33-BC37-CF26CC8E352B"
+    },
+    "94862BEB-25A7-47D3-AC86-1B5298A9925E": {
+      "symbolID": "725F7039-37BE-41CD-AF40-E825AEAFCE90"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9ED27FE0-A7CA-4929-A060-7B56F59C8F31",
+  "verticalSpacing": 0
+}

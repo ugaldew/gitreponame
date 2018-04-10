@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D5234522-79CE-40F3-9E17-BA0771862E09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A22F21C7-961F-43E5-8D3D-48AE21796009",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C2886C6-D430-49AB-90EF-44462D55A7DB",
+    "height": 688,
+    "width": 1332,
+    "x": 54,
+    "y": 264
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Layout / AppLayout / window Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F5FF7596-D2B2-4951-A55C-57325F4155EE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "69C9FA54-B5A5-43CA-AFFD-8E2B5AEE78A3",
+  "verticalSpacing": 0
+}

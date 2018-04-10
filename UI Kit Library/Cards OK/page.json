@@ -1,0 +1,94 @@
+{
+  "_class": "page",
+  "do_objectID": "A1B01AEB-01B3-4563-A5AD-67CB52CEDA38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -839,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "EEF53299-5FF0-4F18-8FB8-D73FFA15F6A1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6BEC01D6-30A0-40A4-915D-B70E4F0B2177"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F3C82915-D768-4C6A-B78B-73FD52F42832"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EA94054C-FF41-4AB1-98B8-BBBBA1B62CC8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "89EFCAAF-0D9B-44AC-82C1-FE207C9F95AE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1435259D-2C09-475D-81CC-9DFC8DD027C7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "23215E5E-761A-46CF-9A14-550E2C071608"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C8990446-B8E9-4E08-8A50-5E1AF4580F2D"
+    }
+  ],
+  "name": "Cards OK",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "net.nurik.roman.sketch.artboardtricks": {
+      "artboard_tricks_spacing": {
+        "xSpacing": 100,
+        "ySpacing": 100
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -525,
+    "guides": [
+    ]
+  }
+}

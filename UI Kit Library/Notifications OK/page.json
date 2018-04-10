@@ -1,0 +1,70 @@
+{
+  "_class": "page",
+  "do_objectID": "8954D93A-8166-465F-8B03-706A5A84606F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -839,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "651D3EC3-D3FF-458D-AD4B-CC319258CCE1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CD0841B7-36EF-4DFE-9B35-79A88ADCE1B6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B6604E0E-8371-4DC1-BB0B-32E710FE7232"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C2D1836B-2D19-4863-9753-667EB3A64756"
+    }
+  ],
+  "name": "Notifications OK",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -525,
+    "guides": [
+    ]
+  }
+}

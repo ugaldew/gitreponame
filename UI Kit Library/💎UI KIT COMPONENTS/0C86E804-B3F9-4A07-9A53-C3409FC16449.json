@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0C86E804-B3F9-4A07-9A53-C3409FC16449",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 158,
+    "width": 377,
+    "x": -2971,
+    "y": 1703
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdown / Input / Input_switch_#",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "56D24B43-7D9C-4AD6-9A75-61B67733CDAB_symbolID",
+      "value": "A4F19207-BA56-421B-BDA9-33DC034B502E"
+    }
+  ],
+  "overrides": {
+    "56D24B43-7D9C-4AD6-9A75-61B67733CDAB": {
+      "symbolID": "A4F19207-BA56-421B-BDA9-33DC034B502E"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DCEE260B-57F2-45BC-A6A4-B2774B0F593E",
+  "verticalSpacing": 0
+}

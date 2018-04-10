@@ -1,0 +1,154 @@
+{
+  "_class": "page",
+  "do_objectID": "0C982095-05D7-4F0E-866B-92A575AD8688",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -839,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "2807E596-BECC-4970-8031-B5BDE0FA0041"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7BC4635D-1E0D-4EA3-B2EE-5D321069BD82"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D0EA7EFE-DCCD-4A97-8135-CF172C3CB1DD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "38C7607C-5BE0-4F73-9526-EE61B6A6214B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "91595281-003B-407B-9EDE-239CDD3E7A45"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "80EDDE57-EBE7-4EBD-B199-C71D944EF1D5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "683DF347-25CD-4DD0-B5B1-CE81496F9A97"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "360E7906-E0D6-4E5F-9616-6B17DE1033A7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2725D195-250F-4D6E-BF9E-3D43BD909863"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F1D930F1-0327-4AF7-A20A-A5B817C70B9C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "741DC71B-3707-4077-8530-A13A4E80292C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BC4B1958-9C6A-4491-BBA2-BE0579B4FD67"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9BD1524A-B744-422D-A673-28F555A4240B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3C4057B2-F585-4E8C-A118-199B3A7E0F5C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1B0E7BD0-F811-4740-8D71-8402F09D72B4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1F77531E-8852-4A1A-A2F3-96C070474751"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "25930904-8765-47E6-9FAA-719482BAFD70"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FAD3698D-4C4B-4BA4-AAF2-C9BA622FC5EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDD7F5DC-78C6-422A-A96A-6F85DDA08E6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A71E757-3606-450E-95BA-924402C7CD07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83A01AC3-29B3-4B22-B84E-EB7CE91A4423"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F8E86A5-C845-4060-9E0E-DE751A845819"
+    }
+  ],
+  "name": "App Dashboards",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorDimension": 1,
+      "distributorSpacing": "0"
+    },
+    "net.nurik.roman.sketch.artboardtricks": {
+      "artboard_tricks_spacing": {
+        "xSpacing": 100,
+        "ySpacing": 100
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -525,
+    "guides": [
+    ]
+  }
+}

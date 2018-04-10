@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "58131AE7-4957-4CC2-8C47-C8EA32AC7B5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 338,
+    "x": 20,
+    "y": 209
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Color Pick component Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DEAD6C01-36DF-49C1-94E5-B910B53D7E9D_symbolID",
+      "value": "FC8AF076-8D56-4DD6-A396-1CF90279BB62"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "247DBFF2-6B3D-4991-B453-90DE79791309_symbolID",
+      "value": "9BE9D7C6-9BE5-4139-AB89-836BEDEF8798"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8BBD3044-F96C-4AED-95CD-7CBD3DC66D4D_stringValue",
+      "value": "Button Color"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1BA318AF-46C1-4CF6-82CC-876CE7C0517F",
+      "overrideName": "B467094E-E332-4B27-9E78-396AF64BFED2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1F99715-4E01-498E-BEE8-2F3DA46F4EC5",
+      "overrideName": "29CFA1EF-E44A-4C32-A196-1205A3319985_stringValue",
+      "value": "Border line with"
+    }
+  ],
+  "overrides": {
+    "247DBFF2-6B3D-4991-B453-90DE79791309": {
+      "symbolID": "9BE9D7C6-9BE5-4139-AB89-836BEDEF8798"
+    },
+    "29CFA1EF-E44A-4C32-A196-1205A3319985": "Border line with",
+    "8BBD3044-F96C-4AED-95CD-7CBD3DC66D4D": "Button Color",
+    "B467094E-E332-4B27-9E78-396AF64BFED2": {
+      "symbolID": ""
+    },
+    "DEAD6C01-36DF-49C1-94E5-B910B53D7E9D": {
+      "symbolID": "FC8AF076-8D56-4DD6-A396-1CF90279BB62"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 2,
+      "opacity": 1
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A726BB1B-5C38-48E5-8F83-93CB5779D318",
+  "verticalSpacing": 0
+}

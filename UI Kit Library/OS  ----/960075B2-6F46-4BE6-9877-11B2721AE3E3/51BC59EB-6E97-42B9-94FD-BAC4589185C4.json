@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "51BC59EB-6E97-42B9-94FD-BAC4589185C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 116,
+    "width": 96,
+    "x": 166,
+    "y": 50
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dashboard / Dock / Settings / Button_",
+  "nameIsFixed": true,
+  "originalObjectID": "F71A0869-9DE9-4DB2-AB50-E641266CDC36",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3FC15062-589E-4D63-A62E-2CDFB543F086_stringValue",
+      "value": "Business Details"
+    }
+  ],
+  "overrides": {
+    "3FC15062-589E-4D63-A62E-2CDFB543F086": "Business Details"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "95CDAC28-FD09-4023-8DCA-53978546F491",
+  "verticalSpacing": 0
+}

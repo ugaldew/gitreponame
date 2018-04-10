@@ -1,0 +1,149 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 1
+  },
+  "changeIdentifier": 451,
+  "do_objectID": "701EBDD3-A26F-420B-ADF7-FE3A442A8502",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 313,
+    "width": 283,
+    "x": -93,
+    "y": 1556
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E2C18EE5-A763-40AF-9882-5B3B42B28383"
+    },
+    {
+      "class": "group",
+      "id": "18A5036D-4B70-43CC-B0E2-9A64559F820A"
+    },
+    {
+      "class": "group",
+      "id": "BACDDA32-EB19-4C6F-89C8-453950D64D4E"
+    },
+    {
+      "class": "group",
+      "id": "25B5AC49-B2D8-483B-8D02-CC37F9A0D79D"
+    },
+    {
+      "class": "group",
+      "id": "4AC06B11-04D3-4740-BDB2-00685BFB1C85"
+    },
+    {
+      "class": "group",
+      "id": "C6427F48-65FD-40C3-BE3D-AD105D6E3985"
+    },
+    {
+      "class": "group",
+      "id": "48E07BE4-9E15-4E10-BDC3-38A189198DAC"
+    },
+    {
+      "class": "group",
+      "id": "8E0180DC-3D13-4328-B715-605336AF7B13"
+    },
+    {
+      "class": "group",
+      "id": "C9E2B3D5-9A5A-40FB-98F2-CA9B1A8F5AEC"
+    },
+    {
+      "class": "group",
+      "id": "AF60B000-D743-4B15-8FEE-40BC9D2C1772"
+    },
+    {
+      "class": "text",
+      "id": "84FF6719-DCF4-4C9B-820D-C8814BB255F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE0199DB-954A-4422-9E5A-5BB8E9D0EA94"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 88.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 40,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1300
+  },
+  "name": "Pickers / Date / Datepicker_#",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "28802EDE-DBA4-4832-AA5F-D5C2BE87E75B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

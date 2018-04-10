@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "89B1D436-B14C-4D49-8059-606663EFCB8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 91,
+    "width": 397,
+    "x": 0,
+    "y": 562
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "89E360F7-FCD9-45AD-A44F-CC1F0E5AFAED"
+    },
+    {
+      "class": "text",
+      "id": "B0521D93-789C-47A6-9671-15E9669CFED5"
+    },
+    {
+      "class": "text",
+      "id": "9D2AEE08-D2FB-4FAD-981D-CBD8C683280F"
+    }
+  ],
+  "name": "Dark Greeen",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "86D0EFE5-0FD1-4C43-8CAC-BA610A507AD0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 258,
+    "width": 517,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "15FCEE51-5B49-41B0-889F-30125A5AFC6E"
+    },
+    {
+      "class": "group",
+      "id": "8FB80ACD-52BE-4FC1-B6B8-2401492F4EEF"
+    },
+    {
+      "class": "group",
+      "id": "436BB258-FCCF-4CCB-A0D1-6521CE9F5540"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92C6513E-D619-4758-BB6E-9650631F1A3F"
+    }
+  ],
+  "name": "Crop",
+  "nameIsFixed": true,
+  "originalObjectID": "86D0EFE5-0FD1-4C43-8CAC-BA610A507AD0",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

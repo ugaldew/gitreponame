@@ -1,0 +1,71 @@
+{
+  "_class": "page",
+  "do_objectID": "C7723B03-7380-4708-B293-28EB44D3A507",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1D2BC4D-467D-4605-8ECC-D10B072FA04F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E9D0157E-61CE-4B94-991A-A755AD86267E",
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -459,
+    "do_objectID": "6CB10E50-690A-43BF-A8F0-457A1F32FFD5",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "5ACA9FA0-5389-44FC-A736-78D9DEFC7E57"
+    },
+    {
+      "class": "artboard",
+      "id": "F246F7D2-2597-45FF-86CF-33045434CE01"
+    },
+    {
+      "class": "artboard",
+      "id": "869E08FE-91AD-499B-8210-63BB21E7A274"
+    }
+  ],
+  "name": "📌 UI KIT COLOURS 2018",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F77E9E7-B319-40DE-9B7A-77BA0ACFA7DF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -392,
+    "do_objectID": "E2850DBC-8133-4A7B-B60C-3363DDB61682",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "93B07805-FD49-4E37-8CE7-FF69979539C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83695C83-01B4-4BA7-8303-EBFDF6A16A05",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "204A6A7F-95E3-4A00-81D0-21596361B7C6",
+    "height": 53,
+    "width": 1594,
+    "x": -2640,
+    "y": 3604
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Anotations / Label / Label_#",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34725C9B-1BAB-42A8-AC86-16DA766EB902",
+      "overrideName": "89465061-AB54-4E7D-BFB5-F49BEF770394_stringValue",
+      "value": "Labels"
+    }
+  ],
+  "overrides": {
+    "89465061-AB54-4E7D-BFB5-F49BEF770394": "Labels"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.25,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3CDAFDA8-81CC-4734-B3D1-F592CCF10F6E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.5,
+      "type": 0
+    },
+    "do_objectID": "B5075DC3-DCC3-436D-9CDE-3AA45FD544BB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6C3EA7BD-5DA5-451B-B428-9E753FB4BEBC",
+  "verticalSpacing": 0
+}

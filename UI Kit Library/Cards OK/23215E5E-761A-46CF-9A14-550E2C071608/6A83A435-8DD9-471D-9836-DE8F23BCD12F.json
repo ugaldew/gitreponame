@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAiIyQlJicoNDU2Nzg5OjtBRU1OT1BRVFhZZGhVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANeR2V0IG5ldyBidXllcnPTERIKExohV05TLmtleXNaTlMub2JqZWN0c6YUFRYXGBmABIAFgAaAB4AIgAmmGxwdHR0ggAqAE4AbgBuAG4AcgBJfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKKS4hpCorLC2AC4AMgA2ADqQvMDAygA+AEIAQgBGAElNyZWRVYWxwaGFUYmx1ZVVncmVlbiMAAAAAAAAAACM/8AAAAAAAACM/4JCQkI1UstI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5oj5AWE5TT2JqZWN00gpCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AagBTTERIKRklMokdIgBWAFqJKS4AXgBiAGV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AqAAAAAAAAXxATSGVsdmV0aWNhTmV1ZS1MaWdodNI8PVJTXxATTlNNdXRhYmxlRGljdGlvbmFyeaNSPkDSPD1VVl8QEE5TRm9udERlc2NyaXB0b3KiV0BfEBBOU0ZvbnREZXNjcmlwdG9yEADWWltcCl1eX2BhYmNhXxASTlNQYXJhZ3JhcGhTcGFjaW5nWk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0I3/4AAAAAAAAgAAjQDYAAAAAAACAHRAB0jw9ZWZfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNlZ0BfEBBOU1BhcmFncmFwaFN0eWxl0jw9aWpfEBJOU0F0dHJpYnV0ZWRTdHJpbmeia0BfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbm9Ucm9vdIABAAgAEQAaACMALQAyADcAWQBfAGYAbwB2AIMAhQCHAIkAmACfAKcAsgC5ALsAvQC/AMEAwwDFAMwAzgDQANIA1ADWANgA2gEHASkBOwFHAXIBhQGMAZEBkwGVAZcBmQGeAaABogGkAaYBqAGsAbIBtwG9AcYBzwHYAd0B6AHxAf4CAQIKAg8CLAIuAjACNwI6AjwCPgJBAkMCRQJHAl0CcwJ8ApIClwKtArECtgLJAswC3wLhAu4DAwMOAyADQgNUA10DXwNoA2oDbANxA4sDjwOiA6cDvAO/A9QD5gPpA+4AAAAAAAACAQAAAAAAAABwAAAAAAAAAAAAAAAAAAAD8A=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6A83A435-8DD9-471D-9836-DE8F23BCD12F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 224,
+    "x": 384,
+    "y": 244
+  },
+  "glyphBounds": "{{0, 6}, {88, 13}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": " ✏️ Action 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D2C0761D-FE6E-497A-B218-D27CF37E5A41"
+  },
+  "textBehaviour": 1
+}

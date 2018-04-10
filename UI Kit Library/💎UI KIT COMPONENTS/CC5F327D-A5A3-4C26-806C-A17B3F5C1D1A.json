@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CC5F327D-A5A3-4C26-806C-A17B3F5C1D1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63DCB4E1-7C79-461D-847D-E662ED9460B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8678077E-0DCD-4EBD-91BD-02213B3A8E6C",
+    "height": 22,
+    "width": 116,
+    "x": -2840,
+    "y": 764
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / Menu dropdown / selected Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "114AFD57-09C4-4D76-80AD-C975722B3EE8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CAA28766-5C54-4227-AA98-26B37718E6E6",
+  "verticalSpacing": 0
+}

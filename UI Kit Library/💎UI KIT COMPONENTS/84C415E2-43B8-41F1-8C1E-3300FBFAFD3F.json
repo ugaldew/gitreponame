@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "84C415E2-43B8-41F1-8C1E-3300FBFAFD3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 243,
+    "width": 296,
+    "x": -3490,
+    "y": 2370
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdown / Scrolled list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B87F952B-F922-45D6-A8BA-7FA27CD11C7C_stringValue",
+      "value": "Home, Garden & Tools "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D994D7E1-F6C1-4384-B915-F8E13C27B3D5_stringValue",
+      "value": "Automotive & Industrial"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE603102-1E14-4005-9AC8-4F00FDA9A177_stringValue",
+      "value": "Electronics & Computers "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1D5B72D-47BF-4206-89D9-FAA34E4B63B0_stringValue",
+      "value": "Sports & Outdoors"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3C58E83B-8289-4B66-922B-E131807F9D26_stringValue",
+      "value": "Item"
+    }
+  ],
+  "overrides": {
+    "3C58E83B-8289-4B66-922B-E131807F9D26": "Item",
+    "B1D5B72D-47BF-4206-89D9-FAA34E4B63B0": "Sports & Outdoors",
+    "B87F952B-F922-45D6-A8BA-7FA27CD11C7C": "Home, Garden & Tools ",
+    "D994D7E1-F6C1-4384-B915-F8E13C27B3D5": "Automotive & Industrial",
+    "DE603102-1E14-4005-9AC8-4F00FDA9A177": "Electronics & Computers "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F2C721FB-BEB9-442D-BC61-2DC80B85A3B8",
+  "verticalSpacing": 0
+}

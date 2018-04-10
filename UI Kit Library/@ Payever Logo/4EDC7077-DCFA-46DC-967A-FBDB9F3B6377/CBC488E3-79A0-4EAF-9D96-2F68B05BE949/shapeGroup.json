@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "CBC488E3-79A0-4EAF-9D96-2F68B05BE949",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B77A9BA-D5DF-4681-A59E-A6BD638BB311",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1E65EA84-C746-4BD0-B55B-9A88968BF652",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "293A1266-DFA5-4E7D-9477-0C2B074A8B21"
+    },
+    {
+      "class": "shapePath",
+      "id": "67751472-BEB4-4FA4-8C14-630E04B256DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "1EF84430-FB9B-4AB6-BA76-C20FB7C67C89"
+    }
+  ],
+  "name": "Glyph 80x80 Copy 7",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FD84D219-CDFC-413C-9676-C50A84887A46",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.816901408450704,
+      "type": 0
+    },
+    "do_objectID": "120472A1-4A2D-4D1A-BEF4-B7F5A087BEA1",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.85,
+          "blue": 0.06666666666666667,
+          "green": 0.06666666666666667,
+          "red": 0.06666666666666667
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

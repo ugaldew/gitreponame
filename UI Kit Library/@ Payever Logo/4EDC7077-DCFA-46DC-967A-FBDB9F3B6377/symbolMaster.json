@@ -1,0 +1,103 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "F8FFF22D-CD01-4558-BEDE-CF33EE0E381D",
+    "green": 0,
+    "red": 1
+  },
+  "changeIdentifier": 345,
+  "do_objectID": "4EDC7077-DCFA-46DC-967A-FBDB9F3B6377",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B03E3FB-D8E5-4B10-B215-A3C41F35CF6F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF829D06-F97D-4857-9E00-D77271D8C550",
+    "height": 24,
+    "width": 24,
+    "x": 263,
+    "y": -84
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "E01613E2-EC65-4EF4-8F35-EBA4DC47B3BF",
+    "gridSize": 1,
+    "isEnabled": false,
+    "thickGridTimes": 1
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FA8FFDC7-7D10-4F9B-A61A-7B2E074FB92A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CBC488E3-79A0-4EAF-9D96-2F68B05BE949"
+    }
+  ],
+  "name": "@ LOGO / Payever Glyph 24x24 Black",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE49C8B0-C78B-4883-BDBE-6FA125FD4551",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F3CBC428-1296-48E3-AAE0-F7272B9F49A9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B660EB3A-89DE-4E5E-A7BE-574311F88204",
+    "guides": [
+    ]
+  }
+}

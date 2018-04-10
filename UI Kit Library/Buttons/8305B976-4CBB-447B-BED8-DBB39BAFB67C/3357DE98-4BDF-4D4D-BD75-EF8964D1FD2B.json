@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAkJSYnKCkqKy83ODk6O0JGR1NUVVZXWFlbZmpVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANfEBRTaWduIGluIHdpdGggR29vZ2xlINMREgoTGyNXTlMua2V5c1pOUy5vYmplY3RzpxQVFhcYGRqABIAFgAaAB4AIgAmACqccHR0dICEdgAuAE4ATgBOAFIAcgBOAG18QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hbTlNVbmRlcmxpbmVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7SCiwtLl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgowMzaiMTKADYAOojQ1gA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQC4AAAAAAABdSGVsdmV0aWNhTmV1ZdI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oz5AQVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSPD1DRF8QEE5TRm9udERlc2NyaXB0b3KiRUFfEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSE0jpElKS0yAFYAWgBeAGKROT05OgBmAGoAZgBmAG1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAACM/7mZmZmZmZtI8PUBaokBB1lxdXgpfYGFiY2RlY18QEk5TUGFyYWdyYXBoU3BhY2luZ1pOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodCN/+AAAAAAAAIAAI0A2AAAAAAAAgB0QAdI8PWdoXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZ2lBXxAQTlNQYXJhZ3JhcGhTdHlsZdI8PWtsXxASTlNBdHRyaWJ1dGVkU3RyaW5nom1BXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XBxVHJvb3SAAQAIABEAGgAjAC0AMgA3AFkAXwBmAG8AdgCDAIUAhwCJAKAApwCvALoAwgDEAMYAyADKAMwAzgDQANgA2gDcAN4A4ADiAOQA5gDoAQoBHAEoAVMBgAGTAZoBnwG8Ab4BwAHHAcoBzAHOAdEB0wHVAdcB7QIDAgwCGgIfAioCMwJJAk0CWgJjAmgCewJ+ApECkwKaAp8CoQKjAqUCpwKsAq4CsAKyArQCtgK6AsACxQLLAtQC3QLiAuUC8gMHAxIDJANGA1gDYQNjA2wDbgNwA3UDjwOTA6YDqwPAA8MD2APqA+0D8gAAAAAAAAIBAAAAAAAAAHIAAAAAAAAAAAAAAAAAAAP0"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3357DE98-4BDF-4D4D-BD75-EF8964D1FD2B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 159,
+    "x": 58,
+    "y": 11
+  },
+  "glyphBounds": "{{0, 6}, {131, 15}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Sign in with Google",
+  "nameIsFixed": false,
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "54E11ACA-21C1-495F-AF8E-AE7EC932DC4D"
+  },
+  "textBehaviour": 1
+}

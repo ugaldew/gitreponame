@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "04A2B9DD-DAB3-4301-9439-08717D5B3C2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 119,
+    "width": 96,
+    "x": 642,
+    "y": 26
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "APP_3",
+  "nameIsFixed": true,
+  "originalObjectID": "25BD3E46-DF4E-4D3F-8284-2760C8D7119A",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B9B97049-9AF9-4E7E-9F82-6B00ACF27F2F/86509304-9EDF-463D-BE62-E914DD2872B6_stringValue",
+      "value": "Instagram"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "05042D52-CD0E-45F1-914B-6C90B3A6C467_symbolID",
+      "value": "2415C8B6-F5B6-437F-96C6-AD6B86213C75"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDF0F8AB-A856-4756-9D43-8B74E027EB59",
+      "overrideName": "93E81023-B047-48DC-AB90-3528EFE8DB31/0D9A34BA-A97D-4BB5-8762-926259EB0EAF_stringValue",
+      "value": "Instagram"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB7B01D5-E91A-4E47-9A8B-CA06B2EE3D9E",
+      "overrideName": "5F3D5EDE-A65E-4AB3-8F06-390F3C4B87D8_symbolID",
+      "value": "2415C8B6-F5B6-437F-96C6-AD6B86213C75"
+    }
+  ],
+  "overrides": {
+    "05042D52-CD0E-45F1-914B-6C90B3A6C467": {
+      "symbolID": "2415C8B6-F5B6-437F-96C6-AD6B86213C75"
+    },
+    "5F3D5EDE-A65E-4AB3-8F06-390F3C4B87D8": {
+      "symbolID": "2415C8B6-F5B6-437F-96C6-AD6B86213C75"
+    },
+    "93E81023-B047-48DC-AB90-3528EFE8DB31": {
+      "0D9A34BA-A97D-4BB5-8762-926259EB0EAF": "Instagram"
+    },
+    "B9B97049-9AF9-4E7E-9F82-6B00ACF27F2F": {
+      "86509304-9EDF-463D-BE62-E914DD2872B6": "Instagram"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7DD38776-939D-4C2C-9114-CEC4F80867DA",
+  "verticalSpacing": 0
+}

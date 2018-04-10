@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EDD7F5DC-78C6-422A-A96A-6F85DDA08E6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62A8C2B8-BB55-48B5-995C-7ED9CE91FBB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C5CCFCAB-BE57-4669-A1A0-9BFAC7267A74",
+    "height": 210,
+    "width": 1380,
+    "x": 21,
+    "y": 748
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Anotations / Label / Label_#",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34725C9B-1BAB-42A8-AC86-16DA766EB902",
+      "overrideName": "89465061-AB54-4E7D-BFB5-F49BEF770394_stringValue",
+      "value": "Headers"
+    }
+  ],
+  "overrides": {
+    "89465061-AB54-4E7D-BFB5-F49BEF770394": "Headers"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E770E062-ED93-4596-89DF-B4C4A06927C0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.25,
+      "type": 0
+    },
+    "do_objectID": "41322CA4-8607-4B15-8500-4142BF94383C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6C3EA7BD-5DA5-451B-B428-9E753FB4BEBC",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,174 @@
+{
+  "_class": "page",
+  "do_objectID": "651E2491-B07C-4809-9690-AFCB72EA5A57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -838,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "DE98111B-4F5D-4D9B-8197-12D8E7F20E41"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D97B392C-36AA-4977-8B01-5A3E7571990D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9055D36F-81B1-4F6F-B25D-C9C15DF5DCCD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "92B1B63E-5179-4ACC-9F79-3D43FC276D1B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FF14E66D-E999-4C2A-B0BD-9DB148198AB7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3673ED30-533F-485F-9953-018C3BD63F9F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "53C018BF-AB60-4AF9-AF38-654AAA6DB624"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C05F61C9-61A0-4934-A234-D782DABF6631"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A9F8C579-0849-4D5B-9809-7E15531684F3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0F426D5B-3C60-4357-9D18-0225D64A5688"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "81879C09-4B81-4511-88A7-19B67ED5ACA9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "04FDA358-2BF3-488E-9E75-D6323B683452"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DBD24C3C-D0E4-4325-B5B5-0F9DF4649863"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B9CE2A4D-1B5B-4A5D-A3CD-141381269030"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3FC96238-C4F9-48B2-B446-72AD0900D308"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1EBA4E24-2DC4-4A53-A05E-9CD3629EF3F7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C1A08CE8-FB0F-4AB3-ABD3-F238E6F5574A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "567D14BA-217E-4FF0-845D-4D7A05261F0A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "671CE79C-02EF-47AD-BE8E-A137A3B2FCC0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "66A9B845-822A-4593-A243-C3696341A06F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "96281749-9792-41A8-A8CA-5188AAC89ACA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "81B84AAA-DF29-4B43-AAFE-30F6336CB2C9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AA7F04C6-6B66-4A94-92BC-6629C5520F4A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8B3EFBDD-A29F-4AAB-98C5-B6A22BDCD83D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "08C4C7B0-C6EA-4914-89AC-8190E8EA8638"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "01416548-1C6C-48F9-A3D6-8334D49A9A44"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9292BD37-AADC-4864-8C54-DA5340F81104"
+    }
+  ],
+  "name": "Avatars",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorDimension": 0,
+      "distributorSpacing": "100"
+    },
+    "net.nurik.roman.sketch.artboardtricks": {
+      "artboard_tricks_spacing": {
+        "xSpacing": 100,
+        "ySpacing": 100
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -525,
+    "guides": [
+    ]
+  }
+}

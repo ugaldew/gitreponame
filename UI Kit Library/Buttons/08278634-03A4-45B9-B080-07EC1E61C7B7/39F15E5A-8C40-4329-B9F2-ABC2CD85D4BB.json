@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAiIyQlJicoNDU2Nzg5OjtBRU1OT1BRVFhZZGhVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANfEBIrIEFkZCBuZXcgZW1wbG95ZWXTERIKExohV05TLmtleXNaTlMub2JqZWN0c6YUFRYXGBmABIAFgAaAB4AIgAmmGxwdHR0ggAqAE4AbgBuAG4AcgBJfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKKS4hpCorLC2AC4AMgA2ADqQvMDAygA+AEIAQgBGAElNyZWRVYWxwaGFUYmx1ZVVncmVlbiMAAAAAAAAAACM/8AAAAAAAACM/4JCQkI1UstI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5oj5AWE5TT2JqZWN00gpCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AagBTTERIKRklMokdIgBWAFqJKS4AXgBiAGV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AuAAAAAAAAXxAUSGVsdmV0aWNhTmV1ZS1NZWRpdW3SPD1SU18QE05TTXV0YWJsZURpY3Rpb25hcnmjUj5A0jw9VVZfEBBOU0ZvbnREZXNjcmlwdG9yoldAXxAQTlNGb250RGVzY3JpcHRvchAA1lpbXApdXl9gYWJjYV8QEk5TUGFyYWdyYXBoU3BhY2luZ1pOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodCN/+AAAAAAAAIAAI0A2AAAAAAAAgB0QAdI8PWVmXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZWdAXxAQTlNQYXJhZ3JhcGhTdHlsZdI8PWlqXxASTlNBdHRyaWJ1dGVkU3RyaW5nomtAXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W5vVHJvb3SAAQAIABEAGgAjAC0AMgA3AFkAXwBmAG8AdgCDAIUAhwCJAJ4ApQCtALgAvwDBAMMAxQDHAMkAywDSANQA1gDYANoA3ADeAOABDQEvAUEBTQF4AYsBkgGXAZkBmwGdAZ8BpAGmAagBqgGsAa4BsgG4Ab0BwwHMAdUB3gHjAe4B9wIEAgcCEAIVAjICNAI2Aj0CQAJCAkQCRwJJAksCTQJjAnkCggKZAp4CtAK4Ar0C0ALTAuYC6AL1AwoDFQMnA0kDWwNkA2YDbwNxA3MDeAOSA5YDqQOuA8MDxgPbA+0D8AP1AAAAAAAAAgEAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA/c="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "39F15E5A-8C40-4329-B9F2-ABC2CD85D4BB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B60BBC8-5E50-4AF9-AE2F-0087F779A9C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "634C61D7-F0A7-4568-9059-FBC11BFFD80A",
+    "height": 22,
+    "width": 146,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 6}, {146, 15}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Desktop / Flat Buttons / Disabled / Large Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "1E50585F-1EEF-45A9-A72F-1108E90B50AB"
+  },
+  "textBehaviour": 0
+}

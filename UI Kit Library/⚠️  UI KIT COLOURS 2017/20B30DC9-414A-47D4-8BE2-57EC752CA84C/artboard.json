@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2392156862745098,
+    "green": 0.2392156862745098,
+    "red": 0.2392156862745098
+  },
+  "do_objectID": "20B30DC9-414A-47D4-8BE2-57EC752CA84C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1491,
+    "width": 1329,
+    "x": -515,
+    "y": -596
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "72436A6E-CA21-414C-B591-CA60BEE6CED7"
+    },
+    {
+      "class": "group",
+      "id": "E56DC975-F101-4297-993D-9FFEC0F072CD"
+    },
+    {
+      "class": "group",
+      "id": "85046196-4D49-460B-9852-354AEA2FE111"
+    },
+    {
+      "class": "group",
+      "id": "75A04183-48A5-4ADB-8BCA-A1C75C4CECEA"
+    },
+    {
+      "class": "group",
+      "id": "9735F2AD-B05E-44B6-B2BF-D8D553F2EEEE"
+    },
+    {
+      "class": "group",
+      "id": "2951A7FD-741F-4612-ABF9-CB5EF1C1C942"
+    },
+    {
+      "class": "group",
+      "id": "48006744-6621-4299-AAD0-46B49D8A93A9"
+    },
+    {
+      "class": "group",
+      "id": "3B478044-EDF5-4244-9920-2115EC7C1F01"
+    },
+    {
+      "class": "group",
+      "id": "F1B0AA7D-1BF3-4157-B5DF-255441C1F9F7"
+    },
+    {
+      "class": "group",
+      "id": "4F1FADAA-7B8D-4437-97E3-9CA9502F2659"
+    },
+    {
+      "class": "group",
+      "id": "07F14088-4637-4A0C-9A72-4B60F98D9966"
+    },
+    {
+      "class": "group",
+      "id": "62B58355-76CD-4068-9F7E-245663F6D35D"
+    }
+  ],
+  "name": "Common Colours",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

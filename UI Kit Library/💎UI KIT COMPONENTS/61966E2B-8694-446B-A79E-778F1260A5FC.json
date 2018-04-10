@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "61966E2B-8694-446B-A79E-778F1260A5FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33.00000000000001,
+    "width": 117,
+    "x": -1916,
+    "y": -335
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BTN Grey / Symbol",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4B24BCA-D713-4938-BE53-246D497E5B8D_symbolID",
+      "value": "891F2F88-D8BA-48CA-840D-47780F64D347"
+    }
+  ],
+  "overrides": {
+    "C4B24BCA-D713-4938-BE53-246D497E5B8D": {
+      "symbolID": "891F2F88-D8BA-48CA-840D-47780F64D347"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "90B823CE-2C72-45DD-95F8-3CC9532B7983",
+  "verticalSpacing": 0
+}

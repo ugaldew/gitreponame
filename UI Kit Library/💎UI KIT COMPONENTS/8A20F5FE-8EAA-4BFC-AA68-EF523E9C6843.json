@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8A20F5FE-8EAA-4BFC-AA68-EF523E9C6843",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 669,
+    "width": 1300,
+    "x": 2594,
+    "y": 1438
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dashboard / Overlay / Modal Section",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EA015F54-14AB-4A46-9CB6-DA1DE89C18DF/B7359819-0462-492D-80A1-32DEDCA6B629_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "EA015F54-14AB-4A46-9CB6-DA1DE89C18DF": {
+      "B7359819-0462-492D-80A1-32DEDCA6B629": {
+        "symbolID": ""
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B50750B6-D241-4C1E-AB15-F84E7FB91287",
+  "verticalSpacing": 0
+}

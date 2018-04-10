@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAiIyQlJicoNDU2Nzg5OjtBRU1OT1BRVFhZZGhVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANVQmFjayDTERIKExohV05TLmtleXNaTlMub2JqZWN0c6YUFRYXGBmABIAFgAaAB4AIgAmmGxwdHR0ggAqAE4AbgBuAG4AcgBJfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKKS4hpCorLC2AC4AMgA2ADqQvMDAygA+AEIAQgBGAElNyZWRVYWxwaGFUYmx1ZVVncmVlbiMAAAAAAAAAACM/8AAAAAAAACM/4JCQkI1UstI8PT4/WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5oj5AWE5TT2JqZWN00gpCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AagBTTERIKRklMokdIgBWAFqJKS4AXgBiAGV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AuAAAAAAAAXUhlbHZldGljYU5ldWXSPD1SU18QE05TTXV0YWJsZURpY3Rpb25hcnmjUj5A0jw9VVZfEBBOU0ZvbnREZXNjcmlwdG9yoldAXxAQTlNGb250RGVzY3JpcHRvchAA1lpbXApdXl9gYWJjYV8QEk5TUGFyYWdyYXBoU3BhY2luZ1pOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodCN/+AAAAAAAAIAAI0A2AAAAAAAAgB0QAdI8PWVmXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZWdAXxAQTlNQYXJhZ3JhcGhTdHlsZdI8PWlqXxASTlNBdHRyaWJ1dGVkU3RyaW5nomtAXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W5vVHJvb3SAAQAIABEAGgAjAC0AMgA3AFkAXwBmAG8AdgCDAIUAhwCJAI8AlgCeAKkAsACyALQAtgC4ALoAvADDAMUAxwDJAMsAzQDPANEA/gEgATIBPgFpAXwBgwGIAYoBjAGOAZABlQGXAZkBmwGdAZ8BowGpAa4BtAG9AcYBzwHUAd8B6AH1AfgCAQIGAiMCJQInAi4CMQIzAjUCOAI6AjwCPgJUAmoCcwKBAoYCnAKgAqUCuAK7As4C0ALdAvIC/QMPAzEDQwNMA04DVwNZA1sDYAN6A34DkQOWA6sDrgPDA9UD2APdAAAAAAAAAgEAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA98="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "23CD4D04-0855-4376-BC9A-C7FB7F3282DE",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 296,
+    "x": 14,
+    "y": 11
+  },
+  "glyphBounds": "{{1, 6}, {34, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "  ✏️ NAV TEXT",
+  "nameIsFixed": true,
+  "resizingConstraint": 19,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2DAA10CE-1B9A-449D-BEF3-80AF4A48129E"
+  },
+  "textBehaviour": 1
+}

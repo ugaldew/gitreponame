@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1AD4D478-74FB-4D8E-911F-7969ED156A7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 296,
+    "x": 2,
+    "y": 106
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SIDE BARS / Right Col / Chips module",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2DC7A2BD-6A18-4547-AE8A-A5A170B7FB71_symbolID",
+      "value": "4F4571D0-AEA9-4B90-81CB-2821546F6D04"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7A3D5611-392C-4600-B17B-8FF0904C7FA1_stringValue",
+      "value": "Slider"
+    }
+  ],
+  "overrides": {
+    "2DC7A2BD-6A18-4547-AE8A-A5A170B7FB71": {
+      "symbolID": "4F4571D0-AEA9-4B90-81CB-2821546F6D04"
+    },
+    "7A3D5611-392C-4600-B17B-8FF0904C7FA1": "Slider"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7E2DACE2-B714-42AD-B618-AF7899493ADE",
+  "verticalSpacing": 0
+}

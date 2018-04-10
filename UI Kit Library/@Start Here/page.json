@@ -1,0 +1,66 @@
+{
+  "_class": "page",
+  "do_objectID": "A80D3533-8EA3-4BC4-BA24-8BB968860A35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -459,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "71A9F2E6-12D0-4DB9-AF97-E1E179EDDD2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "530AA0BD-5FE6-4B88-BEE5-AE057C4D2A02"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5737032B-B8C3-45D1-A295-1E0684AB7BBE"
+    }
+  ],
+  "name": "@Start Here",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -392,
+    "guides": [
+    ]
+  }
+}

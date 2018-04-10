@@ -1,0 +1,43 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7C4E9EE2-5803-48B1-B587-AAC42616B38B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 1080,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Background",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "746693A1-8A53-428A-9CCD-57C31EDCA03D"
+  },
+  "symbolID": "A832FBBB-FE7A-4049-A90F-F6A4681EED8C",
+  "verticalSpacing": 0
+}

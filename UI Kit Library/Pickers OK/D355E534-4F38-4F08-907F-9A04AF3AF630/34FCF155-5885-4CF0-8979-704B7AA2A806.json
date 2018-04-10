@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "34FCF155-5885-4CF0-8979-704B7AA2A806",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B753D358-7CA1-49E8-A0B9-F82F4E42AAA9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D30B1F8E-DA61-4F27-9211-84B9AA20FB2E",
+    "height": 594,
+    "width": 479,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modal",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "92CF15BF-1108-4092-8D72-6976F5C33A7A/DB25E687-DAE9-4D1B-8CD7-5774EC74592F/EA137551-8363-421E-8DC6-E4B691236AFA_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "92CF15BF-1108-4092-8D72-6976F5C33A7A/78889FC9-DC8F-4EB3-92C5-1811F86A2E52/FEF878D1-8D60-4EE4-AF24-55C19355B4BD_stringValue",
+      "value": "Add"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D6EDAD2-AE68-4ADD-85DC-F3EC9EC29CC2/35F8D671-23F2-4CE9-BD02-4600805491C5_stringValue",
+      "value": "Connect accounts"
+    }
+  ],
+  "overrides": {
+    "92CF15BF-1108-4092-8D72-6976F5C33A7A": {
+      "78889FC9-DC8F-4EB3-92C5-1811F86A2E52": {
+        "FEF878D1-8D60-4EE4-AF24-55C19355B4BD": "Add"
+      },
+      "DB25E687-DAE9-4D1B-8CD7-5774EC74592F": {
+        "EA137551-8363-421E-8DC6-E4B691236AFA": " "
+      }
+    },
+    "9D6EDAD2-AE68-4ADD-85DC-F3EC9EC29CC2": {
+      "35F8D671-23F2-4CE9-BD02-4600805491C5": "Connect accounts"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BF30393-D163-4345-8A37-54B2E0B0A575",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7050CD6A-CB09-41B2-B950-65C1A50E3279",
+  "verticalSpacing": 0
+}

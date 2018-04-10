@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "56B601CB-3702-453A-BADA-8F1DACBC346D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21.99999999999999,
+    "width": 208.0000000000001,
+    "x": 369,
+    "y": 1307
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms / Buttons + text / Small Symbol Button Left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D59CE88B-9800-4FB6-B48D-6EF7600F63B0_symbolID",
+      "value": "B9CD09BD-3771-4C03-B3E4-F7658CAA1AF0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F0C94FE0-CFB1-4AEC-B923-B54A85380382_symbolID",
+      "value": "7D40DE34-B1D8-48EF-BE86-C0AFC77E7121"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F0C94FE0-CFB1-4AEC-B923-B54A85380382/3F8743F9-4D55-4767-A2CC-301DAA2BC9FA_stringValue",
+      "value": "Small Check Disabled"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7927D219-CF97-4DE1-9478-5003058FB8FB_symbolID",
+      "value": "53FB46BB-DB4E-49F8-8697-F50B7E03DC4C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F2FF58B9-EF7F-4C44-A11E-BE69F1D80053_symbolID",
+      "value": "43FC386C-144C-44BF-94AF-74C6C6C1CF45"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04FBB5E4-740F-4DC2-88AB-89C5367AFC19",
+      "overrideName": "18C3ABE6-9CD1-424B-BEAD-729A87869219_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "18C3ABE6-9CD1-424B-BEAD-729A87869219": {
+      "symbolID": ""
+    },
+    "7927D219-CF97-4DE1-9478-5003058FB8FB": {
+      "symbolID": "53FB46BB-DB4E-49F8-8697-F50B7E03DC4C"
+    },
+    "D59CE88B-9800-4FB6-B48D-6EF7600F63B0": {
+      "symbolID": "B9CD09BD-3771-4C03-B3E4-F7658CAA1AF0"
+    },
+    "F0C94FE0-CFB1-4AEC-B923-B54A85380382": {
+      "3F8743F9-4D55-4767-A2CC-301DAA2BC9FA": "Small Check Disabled",
+      "symbolID": "7D40DE34-B1D8-48EF-BE86-C0AFC77E7121"
+    },
+    "F2FF58B9-EF7F-4C44-A11E-BE69F1D80053": {
+      "symbolID": "43FC386C-144C-44BF-94AF-74C6C6C1CF45"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AA210451-681C-4345-A49E-C1A32F8A88AF",
+  "verticalSpacing": 0
+}

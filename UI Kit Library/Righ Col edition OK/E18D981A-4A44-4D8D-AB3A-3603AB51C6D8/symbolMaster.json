@@ -1,0 +1,118 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 1
+  },
+  "changeIdentifier": 1513,
+  "do_objectID": "E18D981A-4A44-4D8D-AB3A-3603AB51C6D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 350,
+    "x": -2641,
+    "y": 4120
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 11,
+    "isEnabled": false,
+    "thickGridTimes": 1
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -74,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "66F55118-E68C-4E88-82FE-E63163C0BE5E"
+    },
+    {
+      "class": "text",
+      "id": "F201E775-5E11-45B4-9F20-A1D3FC751E57"
+    },
+    {
+      "class": "text",
+      "id": "23CD4D04-0855-4376-BC9A-C7FB7F3282DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC46E6C3-DCEA-49AB-B7D7-611A9828F025"
+    }
+  ],
+  "name": "Righ Col edition / Navigation / Header",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1E3D5A82-2918-4A7E-98AA-1A3194131943",
+  "userInfo": {
+    "avocode": {
+      "managerLink": {
+        "artboardID": "D18E2655-4843-487F-B773-B506387F5928",
+        "managerID": 5969983
+      },
+      "syncTimestamp": 1489483902928
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      28
+    ]
+  }
+}

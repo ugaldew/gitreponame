@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9B0C3D0C-7E4D-49D2-890A-4CE9FDF0BE3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": -1575,
+    "y": 1717
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Action / Close 40x40 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "57AF4E8F-201E-461F-A6D0-841B25356C97",
+      "overrideName": "ED444130-78AE-43B7-863C-DBF9232F0DC4_symbolID",
+      "value": "55FC09AD-92AE-49A7-876F-0E1A4121FCE4"
+    }
+  ],
+  "overrides": {
+    "ED444130-78AE-43B7-863C-DBF9232F0DC4": {
+      "symbolID": "55FC09AD-92AE-49A7-876F-0E1A4121FCE4"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FF80F5ED-9E19-4056-8EA0-150F9F245410",
+  "verticalSpacing": 0
+}

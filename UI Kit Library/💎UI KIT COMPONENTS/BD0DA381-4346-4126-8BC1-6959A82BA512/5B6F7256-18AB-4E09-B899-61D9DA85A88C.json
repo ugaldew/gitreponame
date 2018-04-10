@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5B6F7256-18AB-4E09-B899-61D9DA85A88C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 77,
+    "width": 319.9999999999998,
+    "x": 24,
+    "y": 28
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOD ALERT / Alert",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "114F19E6-7CA1-42C7-B2B1-A55C330F82D7_symbolID",
+      "value": "F5422C66-1CD5-46B5-9857-C9EB4096A030"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F4576D3F-31DE-4A98-916A-9A1B737A29B4_stringValue",
+      "value": "You have  5 messages \nfrom merchands"
+    }
+  ],
+  "overrides": {
+    "114F19E6-7CA1-42C7-B2B1-A55C330F82D7": {
+      "symbolID": "F5422C66-1CD5-46B5-9857-C9EB4096A030"
+    },
+    "F4576D3F-31DE-4A98-916A-9A1B737A29B4": "You have  5 messages \nfrom merchands"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AB415579-1529-4686-A213-4A68B83BF4C1",
+  "verticalSpacing": 0
+}

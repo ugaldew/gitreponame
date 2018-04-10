@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2163FACB-F6A2-4E8A-9E6E-EE96654D73D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE3E76D2-8DC8-4C01-B120-DA8DB48FC0E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A8B5F46F-E252-44C1-B954-67852D120F7A",
+    "height": 24,
+    "width": 24,
+    "x": 21,
+    "y": 16
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Apps / System / ORDERS C",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3DC58301-17E6-486C-82FB-52FFE45240FA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0207D56A-609B-4556-A5A0-A875EA274057",
+  "verticalSpacing": 0
+}

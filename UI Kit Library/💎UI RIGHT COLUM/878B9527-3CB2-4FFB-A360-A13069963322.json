@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "878B9527-3CB2-4FFB-A360-A13069963322",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43.99999999999998,
+    "width": 349.9999999999999,
+    "x": -546,
+    "y": -301.9999999999999
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Righ Col edition / Editors / Selector / Selector_#",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B57E42DD-9022-4B0C-B2BD-C4A246A94B05/42C859E8-534D-44BD-81BC-AA92ABD42F59_stringValue",
+      "value": "H"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B57E42DD-9022-4B0C-B2BD-C4A246A94B05/C4ADB7E1-06D9-4A77-AEAC-0A3A1E4596AA_stringValue",
+      "value": "About us"
+    }
+  ],
+  "overrides": {
+    "B57E42DD-9022-4B0C-B2BD-C4A246A94B05": {
+      "42C859E8-534D-44BD-81BC-AA92ABD42F59": "H",
+      "C4ADB7E1-06D9-4A77-AEAC-0A3A1E4596AA": "About us"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3E11A4AD-1E0B-4221-A4C3-F6F639E20D3A",
+  "verticalSpacing": 0
+}

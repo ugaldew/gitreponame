@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "83FDA234-6797-4355-9CD7-9F95E6E88630",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 60.99999999999999,
+    "x": -1626,
+    "y": -334
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BTN Blue / Symbol",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E25AE114-9CFD-4C89-902B-849D92A847EA_symbolID",
+      "value": "F6DDB823-A3E5-42DB-828E-C0BDBC532AC3"
+    }
+  ],
+  "overrides": {
+    "E25AE114-9CFD-4C89-902B-849D92A847EA": {
+      "symbolID": "F6DDB823-A3E5-42DB-828E-C0BDBC532AC3"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F7B52560-0E8D-4E8D-8682-80CED68D093A",
+  "userInfo": {
+    "com.zeroheight.plugin": {
+      "zeroheight-component-id": "40617"
+    }
+  },
+  "verticalSpacing": 0
+}

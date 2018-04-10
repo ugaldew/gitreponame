@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E304A0C7-A36D-4CE8-AD22-54B4910876EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1380,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dashboard / Overlay / Layout / Fog + close",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8289DB88-F3CD-4F0B-B7CD-536F7791F138/8B92CD3B-585D-4856-8AD7-2E125D29AE02_stringValue",
+      "value": "Products App"
+    }
+  ],
+  "overrides": {
+    "8289DB88-F3CD-4F0B-B7CD-536F7791F138": {
+      "8B92CD3B-585D-4856-8AD7-2E125D29AE02": "Products App"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6F0B41B3-0F51-425A-B16C-F3F31DF5DB01",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "62B58355-76CD-4068-9F7E-245663F6D35D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 450,
+    "x": 149,
+    "y": 108
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5437E8A6-1E39-4D6A-8F29-CDF77FB963C7"
+    },
+    {
+      "class": "text",
+      "id": "D0CEA461-8A66-44E3-92DD-FF6239C25F43"
+    },
+    {
+      "class": "group",
+      "id": "A03FF37A-9C5F-4293-BC9B-DF8F55DA0EF9"
+    }
+  ],
+  "name": "Payever Black",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C6A5FD76-0C94-4DE4-8100-792DBF29D05B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 201,
+    "width": 232,
+    "x": 833,
+    "y": 29
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dock Box 4",
+  "nameIsFixed": false,
+  "originalObjectID": "905FBB77-AC32-40B4-B12F-905E50F3ECDA",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8C5E74DB-4F91-4818-9712-04F252C6C3B7_stringValue",
+      "value": "Messenger"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E2D649B3-E5A4-42C6-A822-0C897A3A32D1_stringValue",
+      "value": "Messenger"
+    }
+  ],
+  "overrides": {
+    "8C5E74DB-4F91-4818-9712-04F252C6C3B7": "Messenger",
+    "E2D649B3-E5A4-42C6-A822-0C897A3A32D1": "Messenger"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DAFDE763-A95D-4E81-9B44-714870DC39B7",
+  "verticalSpacing": 0
+}

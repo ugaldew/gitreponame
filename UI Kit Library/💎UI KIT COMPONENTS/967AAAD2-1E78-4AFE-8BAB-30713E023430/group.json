@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "967AAAD2-1E78-4AFE-8BAB-30713E023430",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 242,
+    "width": 208,
+    "x": 8284,
+    "y": 51
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8AE63277-4170-4EFD-B721-361129704220"
+    },
+    {
+      "class": "group",
+      "id": "952A29E2-7E7D-4AB9-8BB3-FA7C37BDA2E6"
+    },
+    {
+      "class": "text",
+      "id": "CCF40481-7007-42C2-9F19-DDC6905531C4"
+    }
+  ],
+  "name": "Offers / Add Card Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

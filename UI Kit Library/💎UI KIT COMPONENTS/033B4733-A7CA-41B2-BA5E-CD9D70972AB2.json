@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "033B4733-A7CA-41B2-BA5E-CD9D70972AB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54.99999999999997,
+    "width": 120,
+    "x": -1647,
+    "y": -221
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BTN Cancel / symbol",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "29A14683-E2C3-49C8-A956-0155390C957E_symbolID",
+      "value": "4EA4C179-4B0F-4AD8-B670-6A01D77DBB14"
+    }
+  ],
+  "overrides": {
+    "29A14683-E2C3-49C8-A956-0155390C957E": {
+      "symbolID": "4EA4C179-4B0F-4AD8-B670-6A01D77DBB14"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B062D357-CB7D-48AC-BECA-C88A144E197B",
+  "userInfo": {
+    "com.zeroheight.plugin": {
+      "zeroheight-component-id": 45174
+    }
+  },
+  "verticalSpacing": 0
+}

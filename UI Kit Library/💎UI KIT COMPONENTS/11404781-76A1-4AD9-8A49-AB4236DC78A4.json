@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "11404781-76A1-4AD9-8A49-AB4236DC78A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 440,
+    "width": 1352,
+    "x": -707,
+    "y": 3293
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Anotations / Pannel_#",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "140BDBF0-BDF8-415C-B7D2-614306A97CD4",
+      "overrideName": "A6E1C6C6-1D00-4BD2-9A4D-6AE5BBEDE13C_stringValue",
+      "value": "Logos payever"
+    }
+  ],
+  "overrides": {
+    "A6E1C6C6-1D00-4BD2-9A4D-6AE5BBEDE13C": "Logos payever"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9A15619D-445D-4494-B622-A36E07C2ADBD",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3465BFD4-8507-478E-A37C-F7B63699F33E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 270,
+    "x": 0,
+    "y": 330
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Name 6",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01199EDB-1D21-49E2-9F73-FC4D5CAA7989",
+      "overrideName": "407CFBDD-333C-45CD-88C0-A00F0C823C6F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39C11E99-6CD4-4478-9938-000E29690117",
+      "overrideName": "D24F410D-E800-4901-80FF-662B41738FD1_stringValue",
+      "value": "Cynthia Van Schneider"
+    }
+  ],
+  "overrides": {
+    "407CFBDD-333C-45CD-88C0-A00F0C823C6F": {
+      "symbolID": ""
+    },
+    "D24F410D-E800-4901-80FF-662B41738FD1": "Cynthia Van Schneider"
+  },
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "810A0E92-9096-495E-AF31-0294AE8D2A97",
+  "verticalSpacing": 0
+}

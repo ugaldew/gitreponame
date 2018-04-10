@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8FE5D370-2F1A-4495-AE59-9E44B122763E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33.99999999999998,
+    "width": 201.0000000000001,
+    "x": -3417,
+    "y": 3313
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Select / datepicker / select date",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3D9E9346-00E2-43C4-A3EE-1360FC246BA6_stringValue",
+      "value": "Star Date"
+    }
+  ],
+  "overrides": {
+    "3D9E9346-00E2-43C4-A3EE-1360FC246BA6": "Star Date"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ACA4C805-2A45-4105-A010-833D7D60E11E",
+  "verticalSpacing": 0
+}

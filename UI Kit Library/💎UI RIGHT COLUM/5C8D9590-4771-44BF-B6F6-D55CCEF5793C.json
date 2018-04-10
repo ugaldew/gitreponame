@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5C8D9590-4771-44BF-B6F6-D55CCEF5793C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 150.0000000000003,
+    "width": 150,
+    "x": 564,
+    "y": 1086
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Select / Imagepicker/Image_noimage",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E48DBD91-0093-411E-8FF8-756BE2C94F76_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "14C698BD-F7EC-41FE-8C3F-A68FF5D5DFF1_symbolID",
+      "value": "21B3B291-A02A-4E56-8D7E-29EB96A105C8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "14C698BD-F7EC-41FE-8C3F-A68FF5D5DFF1/B38869D0-FB90-4210-B62F-324E691E3B33_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4c1916b1aaa356ea5598f9106387d48446a7f103",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "14C698BD-F7EC-41FE-8C3F-A68FF5D5DFF1": {
+      "B38869D0-FB90-4210-B62F-324E691E3B33": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4c1916b1aaa356ea5598f9106387d48446a7f103",
+        "_ref_class": "MSImageData"
+      },
+      "symbolID": "21B3B291-A02A-4E56-8D7E-29EB96A105C8"
+    },
+    "E48DBD91-0093-411E-8FF8-756BE2C94F76": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "55E59EBD-B6C8-462A-83B8-C4E49E051211",
+  "verticalSpacing": 0
+}

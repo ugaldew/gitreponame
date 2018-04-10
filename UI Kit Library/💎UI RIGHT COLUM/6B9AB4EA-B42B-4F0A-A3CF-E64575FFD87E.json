@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6B9AB4EA-B42B-4F0A-A3CF-E64575FFD87E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "316C1FB4-A15E-4924-A9F5-F63F645BA2BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC7BAD6E-12FF-486E-B15E-61EB0842167D",
+    "height": 44,
+    "width": 349.9999999999999,
+    "x": 2,
+    "y": -8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SIDE BARS / Right Col / Component / Switch",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EC7B3AC-1DF3-40D6-B622-300A9B972B49",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4476AE30-88F4-498D-8796-D08CA6E1E421",
+  "verticalSpacing": 0
+}

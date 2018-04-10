@@ -1,0 +1,69 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaGlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIigrMTU5QUJDREVJTVlaW1xdXl9gYWNkVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADUVTTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAegB1fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7TIwokJSYnW05TVGV4dExpc3RzWk5TVGFiU3RvcHOACYALgADSEgopKqCACtIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIuMFhOU09iamVjdNIsLTIzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjMjQwXxAQTlNQYXJhZ3JhcGhTdHlsZdIKNjc4XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xESCjo9QKI7PIAOgA+iPj+AEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJgAAAAAAAF1IZWx2ZXRpY2FOZXVl0iwtRkdfEBNOU011dGFibGVEaWN0aW9uYXJ5o0ZIMFxOU0RpY3Rpb25hcnnSLC1KS18QEE5TRm9udERlc2NyaXB0b3KiTDBfEBBOU0ZvbnREZXNjcmlwdG9y0xESCk5THaRPUFFSgBWAFoAXgBikVFVWV4AZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+Z2dnZ0k4ojP/AAAAAAAAAjP+Z2dnZ0k4ojP+Z2dnZ0k4rSLC1IYqJIMCMAAAAAAAAAANIsLWVmXxASTlNBdHRyaWJ1dGVkU3RyaW5nomcwXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WprVHJvb3SAAQAIABEAGgAjAC0AMgA3AFoAYABnAHAAdwCEAIYAiACKAIwAkwCbAKYAqwCtAK8AsQCzALgAugC8AL4AwADCANUA9wEkASsBMgE+AUkBSwFNAU8BVAFVAVcBXAFnAXABeAF7AYQBiQGjAacBugG/AdwB3gHgAecB6gHsAe4B8QHzAfUB9wINAiMCLAI6Aj8CVQJZAmYCawJ+AoEClAKbAqACogKkAqYCqAKtAq8CsQKzArUCtwK7AsECxgLMAtUC3gLnAvAC9QL4AwEDBgMbAx4DMwNFA0gDTQAAAAAAAAIBAAAAAAAAAGwAAAAAAAAAAAAAAAAAAANP"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "5DF6511C-B8EF-4492-AD67-D2B3FCB132D1",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 7,
+    "x": 119,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 0}, {7, 10}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "T",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7019607843,
+          "green": 0.7019607843,
+          "red": 0.7019607843
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJgAAAAAAAF1IZWx2ZXRpY2FOZXVl0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGHR5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCA8TGVUkbnVsbNMJCgsMDQ5bTlNUZXh0TGlzdHNWJGNsYXNzWk5TVGFiU3RvcHOAAoAEgADSEAoRElpOUy5vYmplY3RzoIAD0hQVFhdaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ohYYWE5TT2JqZWN00hQVGhtfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMaHBhfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0R8gVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBKAFYAXQBoAGoAbABuAHMAfgB/AIEAhgCRAJoAogClAK4AswDNANEA5AD2APkA/gAAAAAAAAIBAAAAAAAAACEAAAAAAAAAAAAAAAAAAAEA"
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

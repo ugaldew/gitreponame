@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3D69FF90-73C3-452F-A2D0-C2E48B730847",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 270,
+    "x": 0,
+    "y": 165
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Name 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE8FD886-14B0-4B71-88E9-1286FC057077",
+      "overrideName": "407CFBDD-333C-45CD-88C0-A00F0C823C6F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2C52075-0667-45BE-B96A-6B9554974532",
+      "overrideName": "D24F410D-E800-4901-80FF-662B41738FD1_stringValue",
+      "value": "Barbara Johnson"
+    }
+  ],
+  "overrides": {
+    "407CFBDD-333C-45CD-88C0-A00F0C823C6F": {
+      "symbolID": ""
+    },
+    "D24F410D-E800-4901-80FF-662B41738FD1": "Barbara Johnson"
+  },
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "810A0E92-9096-495E-AF31-0294AE8D2A97",
+  "verticalSpacing": 0
+}

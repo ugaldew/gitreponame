@@ -1,0 +1,98 @@
+{
+  "_class": "page",
+  "do_objectID": "76611E52-8D57-4979-878C-5943013C0FEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -839,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "377CE399-104F-4A4C-9FDB-43848773034A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DDE3BBCF-6FB4-46A6-91D6-640D5DA50CE7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "08F05682-287C-44B5-B254-74B0BA7882AA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4B1E78C5-6E75-454D-9DA9-4DA6E85E097D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3F878B56-7BC3-40C7-8FE5-F1CA48273FA4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1B1A32D8-F5FF-40B8-9E5B-08B77608D5F6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3E3A3248-2413-40B7-8677-22440FCA756A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "027175C9-6427-4C9F-8354-16D253336D8F"
+    }
+  ],
+  "name": "App Headers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorDimension": 1,
+      "distributorSpacing": "100"
+    },
+    "net.nurik.roman.sketch.artboardtricks": {
+      "artboard_tricks_spacing": {
+        "xSpacing": 100,
+        "ySpacing": 100
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -525,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 1
+  },
+  "changeIdentifier": 5779,
+  "do_objectID": "23BD32E8-E007-4D19-86F9-731D20E5AA86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 192,
+    "width": 208,
+    "x": -137,
+    "y": 547
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0E689D50-96A8-4344-8FF5-45386D6CAEC7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FEB6DC74-5AFE-4F39-8782-1FF03E0407D7"
+    },
+    {
+      "class": "text",
+      "id": "E7821520-C62E-4957-8E43-5986E95044DC"
+    },
+    {
+      "class": "group",
+      "id": "0B276A95-AEEB-4BCD-8F39-7CDA7EA7C445"
+    }
+  ],
+  "name": "Dashboard / Avatar / Avatar_#",
+  "nameIsFixed": true,
+  "originalObjectID": "91992EE2-7177-42F5-8B47-01D25BF3AD72",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2BF64699-B3D4-4F2F-AF60-946E849A1676",
+  "userInfo": {
+    "avocode": {
+      "managerLink": {
+        "artboardID": "91992EE2-7177-42F5-8B47-01D25BF3AD72",
+        "managerID": "unassigned"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

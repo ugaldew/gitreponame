@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "85DA0C8D-4F3A-4BB7-80D1-68FFA125D630",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E935CF40-9BA5-4927-B74D-C0E28D5B5309",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C70529CA-B15A-4AA2-8294-F8B025CEA729",
+    "height": 329,
+    "width": 308,
+    "x": -2651,
+    "y": 2970
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Select / datepicker / calendar 2 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70C52094-BFA6-4377-9FE4-308E42323E5F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3E9D9AB7-3181-48BD-AF60-7B56DF479260",
+  "verticalSpacing": 0
+}

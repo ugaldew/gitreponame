@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "50D120DC-45C0-45A3-BC51-08BBA00EC94B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 91,
+    "width": 397,
+    "x": 0,
+    "y": 358
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "162AF906-B5C3-4CF3-A4CA-BA8F25457468"
+    },
+    {
+      "class": "text",
+      "id": "59494B65-E96C-4C4D-89F0-07BF30A0596E"
+    },
+    {
+      "class": "text",
+      "id": "A3AB2736-515B-44E0-8BC2-63C3BDDAB2AE"
+    }
+  ],
+  "name": "Dark Orange",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

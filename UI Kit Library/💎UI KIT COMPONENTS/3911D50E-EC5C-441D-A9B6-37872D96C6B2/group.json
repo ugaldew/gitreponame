@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "3911D50E-EC5C-441D-A9B6-37872D96C6B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 80,
+    "x": 7462,
+    "y": -224
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "40B7F75E-1F7D-4957-B121-ED8EF6CC0764"
+    },
+    {
+      "class": "text",
+      "id": "66E0B512-ABDF-4CCA-A505-62BCE8081D46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB774E49-5AE7-4D87-8836-27A1D885739C"
+    }
+  ],
+  "name": "Offers / Apps_Mixed Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

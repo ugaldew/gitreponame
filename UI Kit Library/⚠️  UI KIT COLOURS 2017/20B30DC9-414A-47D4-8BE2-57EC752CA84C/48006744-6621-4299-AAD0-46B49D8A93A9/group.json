@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "48006744-6621-4299-AAD0-46B49D8A93A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 450,
+    "x": 149,
+    "y": 647
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DA846950-488F-48A3-907B-A93993F2BDF3"
+    },
+    {
+      "class": "text",
+      "id": "939EB2E4-3F93-403E-86BA-3A77CD53A922"
+    },
+    {
+      "class": "group",
+      "id": "F8A3A03D-5B1C-4DB5-B8A8-7D5362973FC8"
+    }
+  ],
+  "name": "Light Grey B",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

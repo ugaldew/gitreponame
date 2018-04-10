@@ -1,0 +1,139 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ABAE6625-16C5-4055-AAC8-5ADC4290DF9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54.99999999999999,
+    "width": 1380,
+    "x": 829,
+    "y": -297
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "TOP BAR",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1B755799-660B-4506-8755-592254E7C99D_symbolID",
+      "value": "96161053-0D48-4586-B82C-509F79065D6B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1B755799-660B-4506-8755-592254E7C99D/C300676A-CBAE-4A16-B526-4C9B74BA2BCC_stringValue",
+      "value": "Native Union"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1B755799-660B-4506-8755-592254E7C99D/A22EDD04-BEEE-4E69-849B-09EEF84EC2D2_symbolID",
+      "value": "2BD08CFC-0177-4728-B0FA-21F3A69A2B4E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1B755799-660B-4506-8755-592254E7C99D/5D5D8809-6617-4DE6-AD9E-8356BB725BB1_symbolID",
+      "value": "54AA5894-661F-46A9-B508-D64619E95D4E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1B755799-660B-4506-8755-592254E7C99D/165CD691-A882-4B37-AECC-CF1DFAC542F4_symbolID",
+      "value": "2BD08CFC-0177-4728-B0FA-21F3A69A2B4E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65241E3E-0B17-4E22-B7E7-33B4DEE8A8D4_symbolID",
+      "value": "96161053-0D48-4586-B82C-509F79065D6B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65241E3E-0B17-4E22-B7E7-33B4DEE8A8D4/A22EDD04-BEEE-4E69-849B-09EEF84EC2D2_symbolID",
+      "value": "4B29B8D7-9B1E-42ED-AA5B-1482AD8E2541"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51A46C55-0EF7-4B66-8113-FB8A66DF7BB0_symbolID",
+      "value": "A38B9724-1645-43A5-8C37-E46A9BA4FB20"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71132AAC-7ADF-4973-A9A3-C7D53A1B6435_symbolID",
+      "value": "111C414D-9035-49CE-B8F2-FA44A309AB73"
+    }
+  ],
+  "overrides": {
+    "1B755799-660B-4506-8755-592254E7C99D": {
+      "165CD691-A882-4B37-AECC-CF1DFAC542F4": {
+        "symbolID": "2BD08CFC-0177-4728-B0FA-21F3A69A2B4E"
+      },
+      "5D5D8809-6617-4DE6-AD9E-8356BB725BB1": {
+        "symbolID": "54AA5894-661F-46A9-B508-D64619E95D4E"
+      },
+      "A22EDD04-BEEE-4E69-849B-09EEF84EC2D2": {
+        "symbolID": "2BD08CFC-0177-4728-B0FA-21F3A69A2B4E"
+      },
+      "C300676A-CBAE-4A16-B526-4C9B74BA2BCC": "Native Union",
+      "symbolID": "96161053-0D48-4586-B82C-509F79065D6B"
+    },
+    "51A46C55-0EF7-4B66-8113-FB8A66DF7BB0": {
+      "symbolID": "A38B9724-1645-43A5-8C37-E46A9BA4FB20"
+    },
+    "65241E3E-0B17-4E22-B7E7-33B4DEE8A8D4": {
+      "A22EDD04-BEEE-4E69-849B-09EEF84EC2D2": {
+        "symbolID": "4B29B8D7-9B1E-42ED-AA5B-1482AD8E2541"
+      },
+      "symbolID": "96161053-0D48-4586-B82C-509F79065D6B"
+    },
+    "71132AAC-7ADF-4973-A9A3-C7D53A1B6435": {
+      "symbolID": "111C414D-9035-49CE-B8F2-FA44A309AB73"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A487A205-48BE-4184-BFCA-817E8FC0FB17",
+  "userInfo": {
+    "com.zeroheight.plugin": {
+      "zeroheight-component-id": 40852
+    }
+  },
+  "verticalSpacing": 0
+}

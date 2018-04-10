@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9CEC2D6B-5178-4A47-8DF3-42E8C552ADBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 349.9999999999999,
+    "x": 2,
+    "y": 320
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SIDE BARS / Right Col / Component / Slider units",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CA5FF4F4-AF05-45DF-8FA5-D8BD0E6DB1A3_symbolID",
+      "value": "9BE9D7C6-9BE5-4139-AB89-836BEDEF8798"
+    }
+  ],
+  "overrides": {
+    "CA5FF4F4-AF05-45DF-8FA5-D8BD0E6DB1A3": {
+      "symbolID": "9BE9D7C6-9BE5-4139-AB89-836BEDEF8798"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7576E957-033B-44B3-A638-86BB13DD0368",
+  "verticalSpacing": 0
+}

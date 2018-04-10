@@ -1,0 +1,192 @@
+{
+  "_class": "group",
+  "do_objectID": "25A5321A-0A3C-49AB-AAC5-999F3FB85F11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95EDED00-D061-461F-8DB6-52AC0FBCAA64",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "11285C47-538D-4B28-9D7B-2BF000426C48",
+    "height": 2337,
+    "width": 1249,
+    "x": 73,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "47A514C5-C34F-40B5-993A-6DA78CED6DCC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D911C898-8E19-4273-A58A-4DA3FA8C083A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39A3CD96-B8FA-42DF-8C24-484A22D78D78"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76BD8797-51AB-42C2-B4B9-F642307787D0"
+    },
+    {
+      "class": "group",
+      "id": "ECF4D2D0-0889-42C2-B6C2-69C3DEB0B9D6"
+    },
+    {
+      "class": "group",
+      "id": "93C43901-824E-4763-ABDC-727C9754A58A"
+    },
+    {
+      "class": "group",
+      "id": "41F09BA4-99EB-4F4C-808A-26EFA0C43EE6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05912750-26C2-4C6C-B7B3-051DEAE549CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2AD03565-7681-4EB8-BCD5-0476EF30218D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46B5715E-D515-419B-AA7A-AAABFF0AA3D4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4028A91B-FE13-4ADA-88E3-E739B2FCE2B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8B44DD95-EB52-48A7-9E52-AA397C437042"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22410A7D-AC79-4BC9-B828-680AE1A46088"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C07045A-E0B1-4924-9F4F-41B3BC94A974"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "125032E1-AC16-4199-B7B0-C51E2828D271"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0E66E62-4F24-4C83-9817-167CE2ABD2CF"
+    },
+    {
+      "class": "text",
+      "id": "911DBC1B-583F-4519-9940-73E6AC4F4684"
+    },
+    {
+      "class": "text",
+      "id": "82BC5627-0714-4999-83C1-BFEF870A6A31"
+    },
+    {
+      "class": "text",
+      "id": "068A9D09-4578-464A-B6DB-454799A560F7"
+    },
+    {
+      "class": "text",
+      "id": "6DA3C214-2EA0-4A51-A7A2-96BB2578ED4C"
+    },
+    {
+      "class": "group",
+      "id": "CBA86CC7-777A-464D-AB70-7CB6603AAC6A"
+    },
+    {
+      "class": "group",
+      "id": "FA7FBCE9-5E55-472A-BFE3-AF73E9892750"
+    },
+    {
+      "class": "group",
+      "id": "BB28B80B-3898-44FF-8187-74E3B7B498F1"
+    },
+    {
+      "class": "group",
+      "id": "1FA4C918-6C98-4FB7-A1B7-FA9810C137E8"
+    },
+    {
+      "class": "group",
+      "id": "8985A3D0-16FE-4AD2-A785-C92A37317BEE"
+    },
+    {
+      "class": "group",
+      "id": "7D0EA6B2-C399-4EE1-B17A-6F975C0E187C"
+    },
+    {
+      "class": "group",
+      "id": "0D81D780-002D-497A-B58D-73B01C369C0F"
+    },
+    {
+      "class": "group",
+      "id": "2FB3F5BC-B3C3-4743-9E71-73173138C542"
+    },
+    {
+      "class": "group",
+      "id": "6A2448C8-A667-4954-A938-BA37E4D1BB13"
+    },
+    {
+      "class": "group",
+      "id": "5ADB9034-249C-4AF9-9280-E4E6F86A25FF"
+    },
+    {
+      "class": "text",
+      "id": "4D4D0E64-FCDD-48AF-8E4E-99067B7E6274"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A0DC2DBE-99DE-44C0-9C40-CCEC4987663C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7AAC867D-818E-4388-B41A-C734412143F4"
+    },
+    {
+      "class": "text",
+      "id": "46E01922-5028-4B82-BD88-E8CA0C3246F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF25350B-AF5D-4B5C-A703-3D8E470ACCB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34CC72CB-4029-4829-BD51-16B61150A998"
+    },
+    {
+      "class": "text",
+      "id": "B131E356-B4D9-46CD-9291-E367E50CD827"
+    }
+  ],
+  "name": "UI Kit / @Colors Black and White use",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1269E6FD-A707-4371-8E63-C27629F867D4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

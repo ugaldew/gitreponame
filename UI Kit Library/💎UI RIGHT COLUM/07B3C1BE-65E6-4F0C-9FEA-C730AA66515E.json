@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "07B3C1BE-65E6-4F0C-9FEA-C730AA66515E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43.99999999999998,
+    "width": 349.9999999999999,
+    "x": -546,
+    "y": -514
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SIDE BARS / Right Col / Section Start",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4FDEB1AE-B71B-4FB5-9CBE-95BA26202284_stringValue",
+      "value": "STRUCTURE"
+    }
+  ],
+  "overrides": {
+    "4FDEB1AE-B71B-4FB5-9CBE-95BA26202284": "STRUCTURE"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F60A970A-F5E4-44DE-952B-306BDDBB3DBF",
+  "verticalSpacing": 0
+}

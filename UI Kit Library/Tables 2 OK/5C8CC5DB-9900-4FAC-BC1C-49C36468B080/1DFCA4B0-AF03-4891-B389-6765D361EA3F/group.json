@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "1DFCA4B0-AF03-4891-B389-6765D361EA3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D04E380B-D02D-4748-9B41-96B62AFCF876",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43359F5A-F74A-4B3A-8ECC-5BB55E326607",
+    "height": 23,
+    "width": 85,
+    "x": 338.9999999999999,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "05886002-941D-4372-87AE-51FC61E0325B"
+    },
+    {
+      "class": "text",
+      "id": "B3E082B4-0DE5-42FF-A699-34E33869E839"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "24252F26-B8DB-4995-8333-0EF8E7754C1F"
+    }
+  ],
+  "name": "Commons / Edit  I  Delete",
+  "nameIsFixed": true,
+  "resizingConstraint": 14,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6142CA40-FA6A-4486-8D13-7B43477B709F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

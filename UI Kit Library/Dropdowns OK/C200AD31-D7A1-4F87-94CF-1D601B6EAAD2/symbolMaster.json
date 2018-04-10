@@ -1,0 +1,192 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.02020202020202022,
+    "green": 0.02020202020202022,
+    "red": 1
+  },
+  "changeIdentifier": 1144,
+  "do_objectID": "C200AD31-D7A1-4F87-94CF-1D601B6EAAD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 319,
+    "width": 320,
+    "x": 409,
+    "y": -1285
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 1,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6D9D6145-9FB5-4696-8FBE-615A5C6E217A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1917E4A-84A1-4A91-A880-EB50804B74CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "342B2CC1-5B43-45C6-8A18-46E2BB77311F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51651E53-B2EB-47A7-A56B-844A43184E5D"
+    },
+    {
+      "class": "text",
+      "id": "4A9870BD-BC9C-43CC-B536-CED3EA1269A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3421342-BCAD-4D6D-BD45-F195611DB0A5"
+    },
+    {
+      "class": "text",
+      "id": "C88BCB92-2397-4D4B-BCD0-63771670CD71"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5DF21FA-CB1A-478A-843C-20BA56079788"
+    },
+    {
+      "class": "text",
+      "id": "7E12CC57-DA72-446D-9D5B-A09FB5DB73BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5A91825-805F-4C19-A148-1E98452A5E2E"
+    },
+    {
+      "class": "text",
+      "id": "7DFAD8FF-6B14-4D56-B788-075D07CBDCEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F92F9FE-BA57-4B97-A7E6-F9E743E9BFB7"
+    },
+    {
+      "class": "text",
+      "id": "8BCDD343-A1BC-4216-A014-719177AA3D73"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C9D48F6-92A4-4B7D-B7E1-8B3EE69D794E"
+    },
+    {
+      "class": "text",
+      "id": "BBF4C4A4-ACA7-4C30-B6D9-C50E0F6F69F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF55D806-EE69-49E5-BBAA-726857F54098"
+    },
+    {
+      "class": "text",
+      "id": "E4800A73-7315-409E-8A74-D7BA9BFE91A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6115F798-D583-4467-BA8B-DA5FF20DC1CA"
+    },
+    {
+      "class": "text",
+      "id": "0440C978-A3A3-4FAD-87BA-33C6E450C1B6"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 88.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 40,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1300
+  },
+  "name": "Dropdown / MenuRegular / Regular_# 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "566AD604-AC5D-4039-BD80-9AE7B328B84A",
+  "userInfo": {
+    "avocode": {
+      "managerLink": {
+        "artboardID": "C26CF14D-7B41-465B-981C-F8BC72ADDD7B",
+        "managerID": 5970500
+      },
+      "syncTimestamp": 1489483903766
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

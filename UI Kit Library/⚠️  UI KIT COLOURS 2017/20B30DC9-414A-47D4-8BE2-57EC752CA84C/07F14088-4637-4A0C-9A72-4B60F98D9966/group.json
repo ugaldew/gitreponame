@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "07F14088-4637-4A0C-9A72-4B60F98D9966",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 450,
+    "x": 149,
+    "y": 215
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6A8EB1B5-ADF5-4ED8-8221-B760FB87EAE4"
+    },
+    {
+      "class": "text",
+      "id": "23BFE920-E6CE-4282-9243-1C52C21A4F22"
+    },
+    {
+      "class": "group",
+      "id": "52D1CD56-9A91-4EDE-8B30-092AEEB30BB4"
+    }
+  ],
+  "name": "Dark Grey A",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

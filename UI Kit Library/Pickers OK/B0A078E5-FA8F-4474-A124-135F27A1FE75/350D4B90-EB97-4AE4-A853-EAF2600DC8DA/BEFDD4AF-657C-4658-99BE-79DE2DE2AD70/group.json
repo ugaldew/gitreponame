@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "BEFDD4AF-657C-4658-99BE-79DE2DE2AD70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 244,
+    "x": 3,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "91D8A705-9CF4-4628-82C2-14EBD39C1EC1"
+    },
+    {
+      "class": "text",
+      "id": "B4657F95-300C-47D4-8AC5-BBC18425E228"
+    },
+    {
+      "class": "text",
+      "id": "0FCBD94A-6ADD-4C73-B79F-A0846C095092"
+    },
+    {
+      "class": "text",
+      "id": "5DF6511C-B8EF-4492-AD67-D2B3FCB132D1"
+    },
+    {
+      "class": "text",
+      "id": "A38406FC-6DD9-414F-A090-07F3E323A7C0"
+    },
+    {
+      "class": "text",
+      "id": "E1A87538-A681-4D9E-98FA-18004C3E681E"
+    },
+    {
+      "class": "text",
+      "id": "3463A868-94AB-42C2-9F26-3B91ADC83738"
+    }
+  ],
+  "name": "DAYS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

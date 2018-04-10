@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "98AAB026-22D0-4B61-BE14-C7BDC523BE55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 116,
+    "width": 96,
+    "x": 574,
+    "y": 50
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dashboard / Dock / Settings / Button_",
+  "nameIsFixed": true,
+  "originalObjectID": "F71A0869-9DE9-4DB2-AB50-E641266CDC36",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "486C9091-9EF9-4B7E-B470-CE82C34C513F_symbolID",
+      "value": "D45DCF9F-B642-45A6-AFFC-CF05223E32E7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51E33B3B-F454-42FF-BFBF-F37E5C423228_symbolID",
+      "value": "37EE1DD2-47E1-441F-A2D2-41226E889986"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3FC15062-589E-4D63-A62E-2CDFB543F086_stringValue",
+      "value": "Staff & Accesses"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CBEBF6A-DFCD-4DA5-885C-0F42C5523F03",
+      "overrideName": "E97163B9-990C-45E4-A94A-ABC65A843544_stringValue",
+      "value": "Staff & Accesses"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDCE7A72-AC57-4A8E-B35E-FFD4CDB17F7C",
+      "overrideName": "2D669EB2-FFD5-4CAD-A3CC-C8B2B3D7314A_symbolID",
+      "value": "37EE1DD2-47E1-441F-A2D2-41226E889986"
+    }
+  ],
+  "overrides": {
+    "2D669EB2-FFD5-4CAD-A3CC-C8B2B3D7314A": {
+      "symbolID": "37EE1DD2-47E1-441F-A2D2-41226E889986"
+    },
+    "3FC15062-589E-4D63-A62E-2CDFB543F086": "Staff & Accesses",
+    "486C9091-9EF9-4B7E-B470-CE82C34C513F": {
+      "symbolID": "D45DCF9F-B642-45A6-AFFC-CF05223E32E7"
+    },
+    "51E33B3B-F454-42FF-BFBF-F37E5C423228": {
+      "symbolID": "37EE1DD2-47E1-441F-A2D2-41226E889986"
+    },
+    "E97163B9-990C-45E4-A94A-ABC65A843544": "Staff & Accesses"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "95CDAC28-FD09-4023-8DCA-53978546F491",
+  "verticalSpacing": 0
+}

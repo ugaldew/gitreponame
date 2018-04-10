@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E7402FAB-FEA9-4588-A88E-4088F57FBAF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71E8C821-CD31-400F-9F19-CE8F63D9A3EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEEF9255-1BC8-4D94-B0F8-AF7BF99FBE5F",
+    "height": 24,
+    "width": 112,
+    "x": 136,
+    "y": 3607
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "@ LOGO / Payever logo 112X24 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "68F855AF-7AD4-400B-AF0D-2BBBCF1887A3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "11BD8226-0FA2-4F49-8572-1BEDD84D0FA6",
+  "verticalSpacing": 0
+}

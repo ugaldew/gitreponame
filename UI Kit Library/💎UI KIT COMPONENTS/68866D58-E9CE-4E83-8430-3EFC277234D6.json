@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "68866D58-E9CE-4E83-8430-3EFC277234D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 146,
+    "x": -1086,
+    "y": 233
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / TABS / 2 Buttons 208x33 / BUT Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AF6C3408-60C8-44EB-A905-9F317C8D47CB/A08ACCCC-244B-45DA-91C2-90141E5DE029_stringValue",
+      "value": "Installed"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "11788FE3-5582-41DC-BCFE-E22B8A0EBD8F/835DC82B-CF58-49C6-BA75-A2E8F4642EFE_stringValue",
+      "value": "Apps"
+    }
+  ],
+  "overrides": {
+    "11788FE3-5582-41DC-BCFE-E22B8A0EBD8F": {
+      "835DC82B-CF58-49C6-BA75-A2E8F4642EFE": "Apps"
+    },
+    "AF6C3408-60C8-44EB-A905-9F317C8D47CB": {
+      "A08ACCCC-244B-45DA-91C2-90141E5DE029": "Installed"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "43A951EA-6842-4535-9E8D-BFFE5012298E",
+  "verticalSpacing": 0
+}

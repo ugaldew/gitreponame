@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DA0002B6-7B69-4E62-B221-D454A816B18D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21.99999999999999,
+    "width": 208.0000000000001,
+    "x": 29,
+    "y": 1253
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms / Buttons + text / Small Symbol Button Right",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F2FF58B9-EF7F-4C44-A11E-BE69F1D80053_symbolID",
+      "value": "43FC386C-144C-44BF-94AF-74C6C6C1CF45"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7927D219-CF97-4DE1-9478-5003058FB8FB_symbolID",
+      "value": "53FB46BB-DB4E-49F8-8697-F50B7E03DC4C"
+    }
+  ],
+  "overrides": {
+    "7927D219-CF97-4DE1-9478-5003058FB8FB": {
+      "symbolID": "53FB46BB-DB4E-49F8-8697-F50B7E03DC4C"
+    },
+    "F2FF58B9-EF7F-4C44-A11E-BE69F1D80053": {
+      "symbolID": "43FC386C-144C-44BF-94AF-74C6C6C1CF45"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "18DBA9AD-44E2-4862-82E9-658F7BEC31BB",
+  "verticalSpacing": 0
+}

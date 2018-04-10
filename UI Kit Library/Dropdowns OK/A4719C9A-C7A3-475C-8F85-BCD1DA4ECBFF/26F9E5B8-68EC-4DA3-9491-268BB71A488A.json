@@ -1,0 +1,43 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "26F9E5B8-68EC-4DA3-9491-268BB71A488A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 462,
+    "width": 184,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "► BOX",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "746693A1-8A53-428A-9CCD-57C31EDCA03D"
+  },
+  "symbolID": "70B01294-E006-4ED7-875F-4D7646BF10FC",
+  "verticalSpacing": 0
+}

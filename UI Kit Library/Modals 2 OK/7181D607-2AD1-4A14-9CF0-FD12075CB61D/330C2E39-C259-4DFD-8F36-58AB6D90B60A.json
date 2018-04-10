@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "330C2E39-C259-4DFD-8F36-58AB6D90B60A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 77,
+    "width": 720,
+    "x": 0,
+    "y": 209
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "TABLES / Modals Lists / Upload",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2E7FE635-0F26-438E-B749-B939EFB712B1_stringValue",
+      "value": "Trade register excerpt or business registration."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BE4A5AFD-98A6-4BAE-89C8-306FB81B77F7_symbolID",
+      "value": "EEC05664-D974-4F6C-9D65-F12357E3FBD7"
+    }
+  ],
+  "overrides": {
+    "2E7FE635-0F26-438E-B749-B939EFB712B1": "Trade register excerpt or business registration.",
+    "BE4A5AFD-98A6-4BAE-89C8-306FB81B77F7": {
+      "symbolID": "EEC05664-D974-4F6C-9D65-F12357E3FBD7"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0197EDF1-4E90-4188-8962-97FE13699258",
+  "verticalSpacing": 0
+}

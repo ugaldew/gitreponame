@@ -1,0 +1,118 @@
+{
+  "_class": "page",
+  "do_objectID": "DCCDBD79-DF2A-40E4-8B25-03336284B6EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -839,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "EF30DC84-5780-4F0C-95A7-62A2B8235CAD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FE49ECF0-D0A6-4C35-9E4A-A2095E6F786E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "23064F16-9205-4A78-B47A-809E4F4EA472"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E8645F26-9BDA-42A3-B9FA-DFC2C2C12035"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D30FB90D-1D4C-4FDE-806B-78FEDC47004F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6194929B-48CD-48A2-ABBB-FA3C71213DDC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "18DDFEC6-CDC9-4A63-A7C3-50B9461D415D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6E273D5C-EF97-4628-AC28-9F4CC99C0444"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8B941D24-9887-4B48-B6AA-BFF52FF81266"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DE7A9ABB-B90E-4FB7-A202-65B3ECEEDF13"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C86A38A8-50F4-4479-A428-7233E5B093AD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5C8CC5DB-9900-4FAC-BC1C-49C36468B080"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7242CFFB-D24B-47E2-B348-D12CACBAB8A3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0EC9DD13-2BB7-4A3E-ADE8-37D7D2E2241D"
+    }
+  ],
+  "name": "Tables 2 OK",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "net.nurik.roman.sketch.artboardtricks": {
+      "artboard_tricks_spacing": {
+        "xSpacing": 100,
+        "ySpacing": 100
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -525,
+    "guides": [
+    ]
+  }
+}
