@@ -403,6 +403,8 @@
     {
       "class": "symbolInstance",
       "id": "56038C76-4C9F-4018-863A-DBAE721EADE2"
+<<<<<<< HEAD
+<<<<<<< HEAD
     },
     {
       "class": "shapeGroup",
@@ -411,6 +413,10 @@
     {
       "class": "shapeGroup",
       "id": "C07BF561-9142-4E46-A65F-563A1C1FD3DA"
+=======
+>>>>>>> parent of 00d7dad... cuadro morado
+=======
+>>>>>>> parent of 00d7dad... cuadro morado
     }
   ],
   "name": "💎UI RIGHT COLUM",
