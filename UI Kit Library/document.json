@@ -85355,6 +85355,9 @@
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     },
+    "com.plant.plantplugin": {
+      "plant_doc_id": "5DBB91E3-259D-42DA-981D-C321C909774B"
+    },
     "com.sonburn.sketchplugins.symbol-swapper": {
       "deleteMasters": 1,
       "includeSiblings": 1,
