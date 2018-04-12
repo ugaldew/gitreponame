@@ -403,6 +403,18 @@
     {
       "class": "symbolInstance",
       "id": "56038C76-4C9F-4018-863A-DBAE721EADE2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "221FC340-9038-4CD2-8DB3-58B7CADF7ACA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5E05657-1732-4326-BBB7-7E0C66E191ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C07BF561-9142-4E46-A65F-563A1C1FD3DA"
     }
   ],
   "name": "💎UI RIGHT COLUM",
